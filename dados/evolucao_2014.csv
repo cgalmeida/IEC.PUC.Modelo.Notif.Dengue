@@ -1,22 +1,22 @@
-DENGUE - NotificaÃ§Ãµes registradas no Sistema de InformaÃ§Ã£o de Agravos de NotificaÃ§Ã£o - Minas Gerais
-Casos ProvÃ¡veis por EvoluÃ§Ã£o e MÃªs notificaÃ§Ã£o
-PerÃ­odo:2014
-"EvoluÃ§Ã£o";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Minas Gerais
+Casos Prováveis por Evolução e Mês notificação
+Período:2014
+"Evolução";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
 "Ign/Branco";1106;1421;1892;2999;2059;946;346;209;191;220;368;478;12235
 "Cura";3249;7041;8340;12476;8394;3370;971;386;441;482;486;649;46285
-"Ã“bito pelo agravo notificado";3;2;16;9;11;2;5;-;1;2;1;-;52
-"Ã“bito por outra causa";-;1;-;-;1;1;-;-;-;1;-;1;5
-"Ã“bito em investigaÃ§Ã£o";-;-;-;1;-;-;-;-;1;2;-;-;4
+"Óbito pelo agravo notificado";3;2;16;9;11;2;5;-;1;2;1;-;52
+"Óbito por outra causa";-;1;-;-;1;1;-;-;-;1;-;1;5
+"Óbito em investigação";-;-;-;1;-;-;-;-;1;2;-;-;4
 "Total";4358;8465;10248;15485;10465;4319;1322;595;634;707;855;1128;58581
- Fonte: MinistÃ©rio da SaÃºde/SVS - Sistema de InformaÃ§Ã£o de Agravos de NotificaÃ§Ã£o - Sinan Net
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
  Notas:
  
- Para os casos provÃ¡veis foram incluÃ­das todas notificaÃ§Ãµes, exceto casos descartados.
- As bases de dados de dengue aqui disponÃ­veis compÃµem um banco Ãºnico a partir de 2014, podendo haver pequenas divergÃªncias com os dados disponibilizados pelo CGARB (CoordenaÃ§Ã£o Geral de VigilÃ¢ncia de Arboviroses-CGARB) em sua sÃ©rie histÃ³rica, que par
- Para tabular os casos graves (classificaÃ§Ã£o final igual a dengue com complicaÃ§Ãµes, febre hemorrÃ¡gica da dengue, sÃ­ndrome do choque da dengue, dengue com sinais de alarme e dengue grave) Ã© necessÃ¡rio considerar tambÃ©m o critÃ©rio de confirmaÃ§Ã£o (labor
- A partir de 2020 o estado do EspÃ­rito Santo passou a utilizar sistema o e-SUS VigilÃ¢ncia em SaÃºde. Portanto, para os casos de Arbovirose urbanas do EspÃ­rito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
- PerÃ­odos DisponÃ­veis ou perÃ­odo - Correspondem aos anos de notificaÃ§Ã£o dos casos e semana epidemiologica, em cada perÃ­odo pode apresentar notificaÃ§Ãµes com data de notificaÃ§Ã£o do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
- Para cÃ¡lculo da incidÃªncia utilize locais de residÃªncia.
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
  Dados de 2014 atualizados em 13/07/2015.
  Dados de 2015 atualizados em 27/09/2016.
  Dados de 2016 atualizados em 06/07/2017.
@@ -24,6 +24,6 @@ PerÃ­odo:2014
  Dados de 2018 atualizados em 01/10/2019.
  Dados de 2019 atualizados em 10/07/2020.
  Dados de 2020 atualizados em 23/07/2021.
- Dados de 2021 atualizados em 25/01/2022, sujeitos a revisÃ£o.
- *Data da publicaÃ§Ã£o dos dados 03/2022.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
  
