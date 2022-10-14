@@ -1,0 +1,36 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Minas Gerais
+Casos Prováveis por Faixa Etária e Mês 1º Sintoma(s)
+Período:2017
+"Faixa Etária";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"Em branco/IGN";2;1;1;-;1;-;-;-;1;-;-;1;7
+"<1 Ano";74;63;72;41;36;13;12;15;20;21;24;43;434
+"1-4";135;122;113;60;42;37;18;15;19;32;26;63;682
+"5-9";214;182;250;146;122;57;20;34;51;36;34;55;1201
+"10-14";302;303;377;245;230;108;45;42;42;51;52;66;1863
+"15-19";508;482;584;417;366;181;62;60;61;74;73;124;2992
+"20-39";1803;1621;1998;1452;1088;589;238;184;179;265;314;528;10259
+"40-59";1123;1047;1289;943;696;336;151;101;119;136;124;265;6330
+"60-64";173;162;204;130;96;45;16;17;14;17;19;42;935
+"65-69";145;107;138;99;76;36;9;15;12;18;8;33;696
+"70-79";143;161;143;117;73;39;16;8;11;13;17;26;767
+"80 e +";78;67;61;45;33;14;3;5;5;4;5;12;332
+"Total";4700;4318;5230;3695;2859;1455;590;496;534;667;696;1258;26498
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 

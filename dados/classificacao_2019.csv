@@ -1,0 +1,29 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Minas Gerais
+Casos Prováveis por Class. Final e Mês 1º Sintoma(s)
+Período:2019
+"Class. Final";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"Ign/Branco";43;60;137;192;120;59;10;4;3;8;2;3;641
+"Inconclusivo";3630;6437;11527;21725;19481;5605;1056;349;349;291;392;743;71585
+"Dengue";12331;26052;67000;122560;129405;34376;5388;1296;970;884;1103;2025;403390
+"Dengue com sinais de alarme";98;237;420;852;969;298;42;12;11;14;9;16;2978
+"Dengue grave";16;27;58;84;70;13;2;2;2;-;4;3;281
+"Total";16118;32813;79142;145413;150045;40351;6498;1663;1335;1197;1510;2790;478875
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 

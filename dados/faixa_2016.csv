@@ -1,0 +1,36 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Minas Gerais
+Casos Prováveis por Faixa Etária e Mês 1º Sintoma(s)
+Período:2016
+"Faixa Etária";"Ign/Em Branco";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"Em branco/IGN";-;21;41;46;33;11;-;-;1;-;-;-;2;155
+"<1 Ano";-;646;1491;1530;1339;506;144;93;103;102;112;104;148;6318
+"1-4";-;1336;3119;3392;2519;604;135;50;35;51;67;106;96;11510
+"5-9";-;2351;5639;6369;4649;1289;176;54;47;69;70;76;168;20957
+"10-14";-;3746;9903;11329;8287;2368;313;57;43;60;77;123;253;36559
+"15-19";-;5766;14503;16856;12542;3743;465;102;69;70;75;145;397;54733
+"20-39";3;23987;52705;61534;47675;14690;2021;414;258;220;288;439;1541;205775
+"40-59";2;16132;35919;40869;32061;9563;1178;223;121;108;118;207;1031;137532
+"60-64";-;2380;5529;6172;4704;1368;145;44;16;12;19;36;164;20589
+"65-69";-;1574;3781;4237;3324;894;109;18;14;15;5;20;132;14123
+"70-79";-;1691;4102;4447;3539;1003;94;29;7;13;11;26;130;15092
+"80 e +";-;590;1564;1645;1308;359;55;12;7;5;2;14;63;5624
+"Total";5;60220;138296;158426;121980;36398;4835;1096;721;725;844;1296;4125;528967
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 
