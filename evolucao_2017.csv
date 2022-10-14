@@ -1,25 +1,28 @@
-DOEN«A DE CHAGAS AGUDA - Casos confirmados Notificados no Sistema de InformaÁ„o de Agravos de NotificaÁ„o - Brasil
-Casos confirmados por Ano 1∫ Sintoma(s)
-PerÌodo:2020
-"Ano 1∫ Sintoma(s)";"Casos_confirmados"
-"2019";23
-"2020";157
-"Total";180
- Fonte: MinistÈrio da Sa˙de/SVS - Sistema de InformaÁ„o de Agravos de NotificaÁ„o - Sinan Net
+DENGUE - Notifica√ß√µes registradas no Sistema de Informa√ß√£o de Agravos de Notifica√ß√£o - Minas Gerais
+Casos Prov√°veis por Evolu√ß√£o e M√™s notifica√ß√£o
+Per√≠odo:2017
+"Evolu√ß√£o";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"Ign/Branco";1903;1154;1260;859;663;334;154;160;191;246;317;419;7660
+"Cura";2209;3302;4170;2832;2437;1315;476;374;315;397;368;603;18798
+"√ìbito pelo agravo notificado";2;4;3;3;2;1;1;1;-;-;3;-;20
+"√ìbito por outra causa";4;5;2;-;3;-;1;2;2;-;1;1;21
+"Total";4118;4465;5435;3694;3105;1650;632;537;508;643;689;1023;26499
+ Fonte: Minist√©rio da Sa√∫de/SVS - Sistema de Informa√ß√£o de Agravos de Notifica√ß√£o - Sinan Net
  Notas:
  
- PerÌodos DisponÌveis ou perÌodo - Correspondem aos anos de notificaÁ„o dos casos.
- Para tabular dados epidemiolÛgicos de um determinado ano selecione na linha a vari·vel de interesse, na Coluna Ano dos 1∫s sintomas; em PerÌodos DisponÌveis assinale o ano inicial da sÈrie e todos os posteriores atÈ o ano atual (p/ incluir casos not
- Dados a partir de 2020 do EspÌrito Santo n„o est„o disponÌveis neste sistema pois s„o oriundos do Sistema de InformaÁ„o e-SUS VS, em uso pelo estado desde janeiro de 2020.
- Dados de 2007 atualizados em 08/01/2013.
- Dados de 2008 a 2010 atualizados em 13/06/2013.
- Dados de 2011 e 2012 atualizados em 01/08/2013.
- Dados de 2013 atualizados em 16/01/2015.
- Dados de 2014 e 2015 atualizados em 03/04/2018.
- Dados de 2016 atualizados em 04/09/2019 e correÁ„o em 2021 de forma de infecÁ„o de casos pertencentes a UF AC;
- Dados de 2017 atualizados em 01/11/2018.
- Dados de 2018 atualizados em 04/09/2019 e correÁ„o em 2021 de vari·vel data de inÌcio de sintomas de caso pertencente a UF PA;
- Dados de 2019 atualizados em 29/09/2020.
- Dados de 2020 atualizados em 29/06/2021, dados sujeito ‡ revis„o
- *Dados disponibilizados no TABNET em abril/2022
+ Para os casos prov√°veis foram inclu√≠das todas notifica√ß√µes, exceto casos descartados.
+ As bases de dados de dengue aqui dispon√≠veis comp√µem um banco √∫nico a partir de 2014, podendo haver pequenas diverg√™ncias com os dados disponibilizados pelo CGARB (Coordena√ß√£o Geral de Vigil√¢ncia de Arboviroses-CGARB) em sua s√©rie hist√≥rica, que par
+ Para tabular os casos graves (classifica√ß√£o final igual a dengue com complica√ß√µes, febre hemorr√°gica da dengue, s√≠ndrome do choque da dengue, dengue com sinais de alarme e dengue grave) √© necess√°rio considerar tamb√©m o crit√©rio de confirma√ß√£o (labor
+ A partir de 2020 o estado do Esp√≠rito Santo passou a utilizar sistema o e-SUS Vigil√¢ncia em Sa√∫de. Portanto, para os casos de Arbovirose urbanas do Esp√≠rito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Per√≠odos Dispon√≠veis ou per√≠odo - Correspondem aos anos de notifica√ß√£o dos casos e semana epidemiologica, em cada per√≠odo pode apresentar notifica√ß√µes com data de notifica√ß√£o do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para c√°lculo da incid√™ncia utilize locais de resid√™ncia.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revis√£o.
+ *Data da publica√ß√£o dos dados 03/2022.
  
