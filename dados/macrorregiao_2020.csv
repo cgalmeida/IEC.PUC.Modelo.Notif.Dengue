@@ -1,0 +1,38 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Minas Gerais
+Casos Prováveis por Macrorreg.de Saúde de notific e Mês notificação
+Período:2020
+"Macrorreg.de Saúde de notific";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"3101 SUL";238;641;1412;2514;1584;432;127;51;64;45;57;75;7240
+"3102 CENTRO SUL";43;46;67;59;57;20;18;2;3;12;11;11;349
+"3103 CENTRO";1128;2250;4034;3557;2254;999;590;277;321;278;433;588;16709
+"3104 JEQUITINHONHA";231;417;464;596;627;265;135;49;30;39;79;60;2992
+"3105 OESTE";1036;1796;3112;3291;1435;402;160;80;69;78;69;128;11656
+"3106 LESTE";480;644;1082;1135;701;343;156;65;71;77;115;264;5133
+"3107 SUDESTE";975;1231;772;679;435;177;110;53;49;44;56;99;4680
+"3108 NORTE";315;358;432;669;508;227;121;51;41;27;35;78;2862
+"3109 NOROESTE";338;482;919;1216;958;494;309;224;108;68;101;112;5329
+"3110 LESTE DO SUL";515;727;732;492;269;65;35;7;7;4;16;23;2892
+"3111 NORDESTE";693;1387;1446;1608;1235;510;178;57;34;27;43;35;7253
+"3112 TRIANGULO DO SUL";308;575;568;796;602;375;282;210;219;143;80;150;4308
+"3113 TRIANGULO DO NORTE";511;745;1048;751;614;420;262;187;125;138;104;140;5045
+"3114 VALE DO ACO";435;738;990;1224;1165;529;207;96;135;124;117;120;5880
+"Total";7246;12037;17078;18587;12444;5258;2690;1409;1276;1104;1316;1883;82328
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ A partir de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikun
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiologica, em cada período pode apresentar notificações com data de notificação do ano anterior (semana epidemiologica 52 ou 53) e posterior (semana epide
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 25/01/2022, sujeitos a revisão.
+ *Data da publicação dos dados 03/2022.
+ 
