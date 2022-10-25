@@ -1,0 +1,853 @@
+;Ano;Codigo;Codigo_Mes;Periodo;Casos;Descricao
+0;2014;1;1;2014.01;1;Ign/Branco
+1;2014;1;2;2014.02;0;Ign/Branco
+2;2014;1;3;2014.03;0;Ign/Branco
+3;2014;1;4;2014.04;1;Ign/Branco
+4;2014;1;5;2014.05;0;Ign/Branco
+5;2014;1;6;2014.06;0;Ign/Branco
+6;2014;1;7;2014.07;0;Ign/Branco
+7;2014;1;8;2014.08;0;Ign/Branco
+8;2014;1;9;2014.09;3;Ign/Branco
+9;2014;1;10;2014.10;6;Ign/Branco
+10;2014;1;11;2014.11;3;Ign/Branco
+11;2014;1;12;2014.12;1;Ign/Branco
+12;2016;1;1;2016.01;1;Ign/Branco
+13;2016;1;2;2016.02;5;Ign/Branco
+14;2016;1;3;2016.03;15;Ign/Branco
+15;2016;1;4;2016.04;28;Ign/Branco
+16;2016;1;5;2016.05;14;Ign/Branco
+17;2016;1;6;2016.06;2;Ign/Branco
+18;2016;1;7;2016.07;0;Ign/Branco
+19;2016;1;8;2016.08;2;Ign/Branco
+20;2016;1;9;2016.09;4;Ign/Branco
+21;2016;1;10;2016.10;2;Ign/Branco
+22;2016;1;11;2016.11;3;Ign/Branco
+23;2016;1;12;2016.12;3;Ign/Branco
+24;2017;1;1;2017.01;19;Ign/Branco
+25;2017;1;2;2017.02;9;Ign/Branco
+26;2017;1;3;2017.03;8;Ign/Branco
+27;2017;1;4;2017.04;8;Ign/Branco
+28;2017;1;5;2017.05;2;Ign/Branco
+29;2017;1;6;2017.06;0;Ign/Branco
+30;2017;1;7;2017.07;3;Ign/Branco
+31;2017;1;8;2017.08;2;Ign/Branco
+32;2017;1;9;2017.09;0;Ign/Branco
+33;2017;1;10;2017.10;1;Ign/Branco
+34;2017;1;11;2017.11;5;Ign/Branco
+35;2017;1;12;2017.12;2;Ign/Branco
+36;2018;1;1;2018.01;2;Ign/Branco
+37;2018;1;2;2018.02;3;Ign/Branco
+38;2018;1;3;2018.03;1;Ign/Branco
+39;2018;1;4;2018.04;2;Ign/Branco
+40;2018;1;5;2018.05;10;Ign/Branco
+41;2018;1;6;2018.06;5;Ign/Branco
+42;2018;1;7;2018.07;3;Ign/Branco
+43;2018;1;8;2018.08;2;Ign/Branco
+44;2018;1;9;2018.09;0;Ign/Branco
+45;2018;1;10;2018.10;3;Ign/Branco
+46;2018;1;11;2018.11;6;Ign/Branco
+47;2018;1;12;2018.12;33;Ign/Branco
+48;2019;1;1;2019.01;43;Ign/Branco
+49;2019;1;2;2019.02;60;Ign/Branco
+50;2019;1;3;2019.03;137;Ign/Branco
+51;2019;1;4;2019.04;192;Ign/Branco
+52;2019;1;5;2019.05;120;Ign/Branco
+53;2019;1;6;2019.06;59;Ign/Branco
+54;2019;1;7;2019.07;10;Ign/Branco
+55;2019;1;8;2019.08;4;Ign/Branco
+56;2019;1;9;2019.09;3;Ign/Branco
+57;2019;1;10;2019.10;8;Ign/Branco
+58;2019;1;11;2019.11;2;Ign/Branco
+59;2019;1;12;2019.12;3;Ign/Branco
+60;2020;1;1;2020.01;27;Ign/Branco
+61;2020;1;2;2020.02;37;Ign/Branco
+62;2020;1;3;2020.03;54;Ign/Branco
+63;2020;1;4;2020.04;49;Ign/Branco
+64;2020;1;5;2020.05;21;Ign/Branco
+65;2020;1;6;2020.06;9;Ign/Branco
+66;2020;1;7;2020.07;1;Ign/Branco
+67;2020;1;8;2020.08;3;Ign/Branco
+68;2020;1;9;2020.09;2;Ign/Branco
+69;2020;1;10;2020.10;4;Ign/Branco
+70;2020;1;11;2020.11;2;Ign/Branco
+71;2020;1;12;2020.12;4;Ign/Branco
+72;2021;1;1;2021.01;4;Ign/Branco
+73;2021;1;2;2021.02;3;Ign/Branco
+74;2021;1;3;2021.03;11;Ign/Branco
+75;2021;1;4;2021.04;5;Ign/Branco
+76;2021;1;5;2021.05;5;Ign/Branco
+77;2021;1;6;2021.06;6;Ign/Branco
+78;2021;1;7;2021.07;4;Ign/Branco
+79;2021;1;8;2021.08;2;Ign/Branco
+80;2021;1;9;2021.09;1;Ign/Branco
+81;2021;1;10;2021.10;10;Ign/Branco
+82;2021;1;11;2021.11;196;Ign/Branco
+83;2021;1;12;2021.12;1233;Ign/Branco
+84;2014;2;1;2014.01;774;Inconclusivo
+85;2014;2;2;2014.02;969;Inconclusivo
+86;2014;2;3;2014.03;1533;Inconclusivo
+87;2014;2;4;2014.04;2037;Inconclusivo
+88;2014;2;5;2014.05;1316;Inconclusivo
+89;2014;2;6;2014.06;499;Inconclusivo
+90;2014;2;7;2014.07;214;Inconclusivo
+91;2014;2;8;2014.08;167;Inconclusivo
+92;2014;2;9;2014.09;154;Inconclusivo
+93;2014;2;10;2014.10;186;Inconclusivo
+94;2014;2;11;2014.11;321;Inconclusivo
+95;2014;2;12;2014.12;420;Inconclusivo
+96;2015;2;1;2015.01;709;Inconclusivo
+97;2015;2;2;2015.02;1453;Inconclusivo
+98;2015;2;3;2015.03;3875;Inconclusivo
+99;2015;2;4;2015.04;7655;Inconclusivo
+100;2015;2;5;2015.05;7249;Inconclusivo
+101;2015;2;6;2015.06;2438;Inconclusivo
+102;2015;2;7;2015.07;727;Inconclusivo
+103;2015;2;8;2015.08;304;Inconclusivo
+104;2015;2;9;2015.09;295;Inconclusivo
+105;2015;2;10;2015.10;375;Inconclusivo
+106;2015;2;11;2015.11;1036;Inconclusivo
+107;2015;2;12;2015.12;3542;Inconclusivo
+108;2016;2;1;2016.01;8322;Inconclusivo
+109;2016;2;2;2016.02;25106;Inconclusivo
+110;2016;2;3;2016.03;31208;Inconclusivo
+111;2016;2;4;2016.04;22483;Inconclusivo
+112;2016;2;5;2016.05;5121;Inconclusivo
+113;2016;2;6;2016.06;527;Inconclusivo
+114;2016;2;7;2016.07;171;Inconclusivo
+115;2016;2;8;2016.08;160;Inconclusivo
+116;2016;2;9;2016.09;130;Inconclusivo
+117;2016;2;10;2016.10;178;Inconclusivo
+118;2016;2;11;2016.11;343;Inconclusivo
+119;2016;2;12;2016.12;974;Inconclusivo
+120;2017;2;1;2017.01;1834;Inconclusivo
+121;2017;2;2;2017.02;825;Inconclusivo
+122;2017;2;3;2017.03;1122;Inconclusivo
+123;2017;2;4;2017.04;707;Inconclusivo
+124;2017;2;5;2017.05;542;Inconclusivo
+125;2017;2;6;2017.06;270;Inconclusivo
+126;2017;2;7;2017.07;115;Inconclusivo
+127;2017;2;8;2017.08;146;Inconclusivo
+128;2017;2;9;2017.09;165;Inconclusivo
+129;2017;2;10;2017.10;235;Inconclusivo
+130;2017;2;11;2017.11;282;Inconclusivo
+131;2017;2;12;2017.12;452;Inconclusivo
+132;2018;2;1;2018.01;424;Inconclusivo
+133;2018;2;2;2018.02;455;Inconclusivo
+134;2018;2;3;2018.03;617;Inconclusivo
+135;2018;2;4;2018.04;758;Inconclusivo
+136;2018;2;5;2018.05;533;Inconclusivo
+137;2018;2;6;2018.06;233;Inconclusivo
+138;2018;2;7;2018.07;169;Inconclusivo
+139;2018;2;8;2018.08;128;Inconclusivo
+140;2018;2;9;2018.09;157;Inconclusivo
+141;2018;2;10;2018.10;299;Inconclusivo
+142;2018;2;11;2018.11;489;Inconclusivo
+143;2018;2;12;2018.12;1087;Inconclusivo
+144;2019;2;1;2019.01;3630;Inconclusivo
+145;2019;2;2;2019.02;6437;Inconclusivo
+146;2019;2;3;2019.03;11527;Inconclusivo
+147;2019;2;4;2019.04;21725;Inconclusivo
+148;2019;2;5;2019.05;19481;Inconclusivo
+149;2019;2;6;2019.06;5605;Inconclusivo
+150;2019;2;7;2019.07;1056;Inconclusivo
+151;2019;2;8;2019.08;349;Inconclusivo
+152;2019;2;9;2019.09;349;Inconclusivo
+153;2019;2;10;2019.10;291;Inconclusivo
+154;2019;2;11;2019.11;392;Inconclusivo
+155;2019;2;12;2019.12;743;Inconclusivo
+156;2020;2;1;2020.01;2033;Inconclusivo
+157;2020;2;2;2020.02;3618;Inconclusivo
+158;2020;2;3;2020.03;4178;Inconclusivo
+159;2020;2;4;2020.04;3992;Inconclusivo
+160;2020;2;5;2020.05;3210;Inconclusivo
+161;2020;2;6;2020.06;1525;Inconclusivo
+162;2020;2;7;2020.07;845;Inconclusivo
+163;2020;2;8;2020.08;525;Inconclusivo
+164;2020;2;9;2020.09;569;Inconclusivo
+165;2020;2;10;2020.10;473;Inconclusivo
+166;2020;2;11;2020.11;686;Inconclusivo
+167;2020;2;12;2020.12;736;Inconclusivo
+168;2021;2;1;2021.01;592;Inconclusivo
+169;2021;2;2;2021.02;507;Inconclusivo
+170;2021;2;3;2021.03;1125;Inconclusivo
+171;2021;2;4;2021.04;1069;Inconclusivo
+172;2021;2;5;2021.05;907;Inconclusivo
+173;2021;2;6;2021.06;487;Inconclusivo
+174;2021;2;7;2021.07;270;Inconclusivo
+175;2021;2;8;2021.08;213;Inconclusivo
+176;2021;2;9;2021.09;297;Inconclusivo
+177;2021;2;10;2021.10;311;Inconclusivo
+178;2021;2;11;2021.11;452;Inconclusivo
+179;2021;2;12;2021.12;75;Inconclusivo
+180;2014;3;1;2014.01;4014;Dengue
+181;2014;3;1;2014.01;4014;Dengue Clássico
+182;2014;3;2;2014.02;7535;Dengue
+183;2014;3;2;2014.02;7535;Dengue Clássico
+184;2014;3;3;2014.03;9593;Dengue
+185;2014;3;3;2014.03;9593;Dengue Clássico
+186;2014;3;4;2014.04;13068;Dengue
+187;2014;3;4;2014.04;13068;Dengue Clássico
+188;2014;3;5;2014.05;8411;Dengue
+189;2014;3;5;2014.05;8411;Dengue Clássico
+190;2014;3;6;2014.06;2981;Dengue
+191;2014;3;6;2014.06;2981;Dengue Clássico
+192;2014;3;7;2014.07;902;Dengue
+193;2014;3;7;2014.07;902;Dengue Clássico
+194;2014;3;8;2014.08;400;Dengue
+195;2014;3;8;2014.08;400;Dengue Clássico
+196;2014;3;9;2014.09;500;Dengue
+197;2014;3;9;2014.09;500;Dengue Clássico
+198;2014;3;10;2014.10;470;Dengue
+199;2014;3;10;2014.10;470;Dengue Clássico
+200;2014;3;11;2014.11;572;Dengue
+201;2014;3;11;2014.11;572;Dengue Clássico
+202;2014;3;12;2014.12;786;Dengue
+203;2014;3;12;2014.12;786;Dengue Clássico
+204;2015;3;1;2015.01;4350;Dengue
+205;2015;3;1;2015.01;4350;Dengue Clássico
+206;2015;3;2;2015.02;7937;Dengue
+207;2015;3;2;2015.02;7937;Dengue Clássico
+208;2015;3;3;2015.03;24085;Dengue
+209;2015;3;3;2015.03;24085;Dengue Clássico
+210;2015;3;4;2015.04;52533;Dengue
+211;2015;3;4;2015.04;52533;Dengue Clássico
+212;2015;3;5;2015.05;44362;Dengue
+213;2015;3;5;2015.05;44362;Dengue Clássico
+214;2015;3;6;2015.06;12072;Dengue
+215;2015;3;6;2015.06;12072;Dengue Clássico
+216;2015;3;7;2015.07;2737;Dengue
+217;2015;3;7;2015.07;2737;Dengue Clássico
+218;2015;3;8;2015.08;997;Dengue
+219;2015;3;8;2015.08;997;Dengue Clássico
+220;2015;3;9;2015.09;782;Dengue
+221;2015;3;9;2015.09;782;Dengue Clássico
+222;2015;3;10;2015.10;1065;Dengue
+223;2015;3;10;2015.10;1065;Dengue Clássico
+224;2015;3;11;2015.11;2958;Dengue
+225;2015;3;11;2015.11;2958;Dengue Clássico
+226;2015;3;12;2015.12;8931;Dengue
+227;2015;3;12;2015.12;8931;Dengue Clássico
+228;2016;3;1;2016.01;51606;Dengue
+229;2016;3;1;2016.01;51606;Dengue Clássico
+230;2016;3;2;2016.02;112509;Dengue
+231;2016;3;2;2016.02;112509;Dengue Clássico
+232;2016;3;3;2016.03;126580;Dengue
+233;2016;3;3;2016.03;126580;Dengue Clássico
+234;2016;3;4;2016.04;99034;Dengue
+235;2016;3;4;2016.04;99034;Dengue Clássico
+236;2016;3;5;2016.05;31139;Dengue
+237;2016;3;5;2016.05;31139;Dengue Clássico
+238;2016;3;6;2016.06;4285;Dengue
+239;2016;3;6;2016.06;4285;Dengue Clássico
+240;2016;3;7;2016.07;920;Dengue
+241;2016;3;7;2016.07;920;Dengue Clássico
+242;2016;3;8;2016.08;552;Dengue
+243;2016;3;8;2016.08;552;Dengue Clássico
+244;2016;3;9;2016.09;586;Dengue
+245;2016;3;9;2016.09;586;Dengue Clássico
+246;2016;3;10;2016.10;658;Dengue
+247;2016;3;10;2016.10;658;Dengue Clássico
+248;2016;3;11;2016.11;940;Dengue
+249;2016;3;11;2016.11;940;Dengue Clássico
+250;2016;3;12;2016.12;3120;Dengue
+251;2016;3;12;2016.12;3120;Dengue Clássico
+252;2017;3;1;2017.01;2812;Dengue
+253;2017;3;1;2017.01;2812;Dengue Clássico
+254;2017;3;2;2017.02;3470;Dengue
+255;2017;3;2;2017.02;3470;Dengue Clássico
+256;2017;3;3;2017.03;4075;Dengue
+257;2017;3;3;2017.03;4075;Dengue Clássico
+258;2017;3;4;2017.04;2964;Dengue
+259;2017;3;4;2017.04;2964;Dengue Clássico
+260;2017;3;5;2017.05;2294;Dengue
+261;2017;3;5;2017.05;2294;Dengue Clássico
+262;2017;3;6;2017.06;1174;Dengue
+263;2017;3;6;2017.06;1174;Dengue Clássico
+264;2017;3;7;2017.07;465;Dengue
+265;2017;3;7;2017.07;465;Dengue Clássico
+266;2017;3;8;2017.08;346;Dengue
+267;2017;3;8;2017.08;346;Dengue Clássico
+268;2017;3;9;2017.09;364;Dengue
+269;2017;3;9;2017.09;364;Dengue Clássico
+270;2017;3;10;2017.10;427;Dengue
+271;2017;3;10;2017.10;427;Dengue Clássico
+272;2017;3;11;2017.11;405;Dengue
+273;2017;3;11;2017.11;405;Dengue Clássico
+274;2017;3;12;2017.12;797;Dengue
+275;2017;3;12;2017.12;797;Dengue Clássico
+276;2018;3;1;2018.01;1629;Dengue
+277;2018;3;1;2018.01;1629;Dengue Clássico
+278;2018;3;2;2018.02;1826;Dengue
+279;2018;3;2;2018.02;1826;Dengue Clássico
+280;2018;3;3;2018.03;3962;Dengue
+281;2018;3;3;2018.03;3962;Dengue Clássico
+282;2018;3;4;2018.04;6542;Dengue
+283;2018;3;4;2018.04;6542;Dengue Clássico
+284;2018;3;5;2018.05;3671;Dengue
+285;2018;3;5;2018.05;3671;Dengue Clássico
+286;2018;3;6;2018.06;1319;Dengue
+287;2018;3;6;2018.06;1319;Dengue Clássico
+288;2018;3;7;2018.07;609;Dengue
+289;2018;3;7;2018.07;609;Dengue Clássico
+290;2018;3;8;2018.08;372;Dengue
+291;2018;3;8;2018.08;372;Dengue Clássico
+292;2018;3;9;2018.09;385;Dengue
+293;2018;3;9;2018.09;385;Dengue Clássico
+294;2018;3;10;2018.10;492;Dengue
+295;2018;3;10;2018.10;492;Dengue Clássico
+296;2018;3;11;2018.11;955;Dengue
+297;2018;3;11;2018.11;955;Dengue Clássico
+298;2018;3;12;2018.12;1851;Dengue
+299;2018;3;12;2018.12;1851;Dengue Clássico
+300;2019;3;1;2019.01;12331;Dengue
+301;2019;3;1;2019.01;12331;Dengue Clássico
+302;2019;3;2;2019.02;26052;Dengue
+303;2019;3;2;2019.02;26052;Dengue Clássico
+304;2019;3;3;2019.03;67000;Dengue
+305;2019;3;3;2019.03;67000;Dengue Clássico
+306;2019;3;4;2019.04;122560;Dengue
+307;2019;3;4;2019.04;122560;Dengue Clássico
+308;2019;3;5;2019.05;129405;Dengue
+309;2019;3;5;2019.05;129405;Dengue Clássico
+310;2019;3;6;2019.06;34376;Dengue
+311;2019;3;6;2019.06;34376;Dengue Clássico
+312;2019;3;7;2019.07;5388;Dengue
+313;2019;3;7;2019.07;5388;Dengue Clássico
+314;2019;3;8;2019.08;1296;Dengue
+315;2019;3;8;2019.08;1296;Dengue Clássico
+316;2019;3;9;2019.09;970;Dengue
+317;2019;3;9;2019.09;970;Dengue Clássico
+318;2019;3;10;2019.10;884;Dengue
+319;2019;3;10;2019.10;884;Dengue Clássico
+320;2019;3;11;2019.11;1103;Dengue
+321;2019;3;11;2019.11;1103;Dengue Clássico
+322;2019;3;12;2019.12;2025;Dengue
+323;2019;3;12;2019.12;2025;Dengue Clássico
+324;2020;3;1;2020.01;5854;Dengue
+325;2020;3;1;2020.01;5854;Dengue Clássico
+326;2020;3;2;2020.02;9505;Dengue
+327;2020;3;2;2020.02;9505;Dengue Clássico
+328;2020;3;3;2020.03;12946;Dengue
+329;2020;3;3;2020.03;12946;Dengue Clássico
+330;2020;3;4;2020.04;14050;Dengue
+331;2020;3;4;2020.04;14050;Dengue Clássico
+332;2020;3;5;2020.05;8410;Dengue
+333;2020;3;5;2020.05;8410;Dengue Clássico
+334;2020;3;6;2020.06;3083;Dengue
+335;2020;3;6;2020.06;3083;Dengue Clássico
+336;2020;3;7;2020.07;1529;Dengue
+337;2020;3;7;2020.07;1529;Dengue Clássico
+338;2020;3;8;2020.08;898;Dengue
+339;2020;3;8;2020.08;898;Dengue Clássico
+340;2020;3;9;2020.09;655;Dengue
+341;2020;3;9;2020.09;655;Dengue Clássico
+342;2020;3;10;2020.10;613;Dengue
+343;2020;3;10;2020.10;613;Dengue Clássico
+344;2020;3;11;2020.11;800;Dengue
+345;2020;3;11;2020.11;800;Dengue Clássico
+346;2020;3;12;2020.12;1253;Dengue
+347;2020;3;12;2020.12;1253;Dengue Clássico
+348;2021;3;1;2021.01;1575;Dengue
+349;2021;3;1;2021.01;1575;Dengue Clássico
+350;2021;3;2;2021.02;2433;Dengue
+351;2021;3;2;2021.02;2433;Dengue Clássico
+352;2021;3;3;2021.03;3511;Dengue
+353;2021;3;3;2021.03;3511;Dengue Clássico
+354;2021;3;4;2021.04;2815;Dengue
+355;2021;3;4;2021.04;2815;Dengue Clássico
+356;2021;3;5;2021.05;1820;Dengue
+357;2021;3;5;2021.05;1820;Dengue Clássico
+358;2021;3;6;2021.06;1112;Dengue
+359;2021;3;6;2021.06;1112;Dengue Clássico
+360;2021;3;7;2021.07;470;Dengue
+361;2021;3;7;2021.07;470;Dengue Clássico
+362;2021;3;8;2021.08;386;Dengue
+363;2021;3;8;2021.08;386;Dengue Clássico
+364;2021;3;9;2021.09;335;Dengue
+365;2021;3;9;2021.09;335;Dengue Clássico
+366;2021;3;10;2021.10;318;Dengue
+367;2021;3;10;2021.10;318;Dengue Clássico
+368;2021;3;11;2021.11;513;Dengue
+369;2021;3;11;2021.11;513;Dengue Clássico
+370;2021;3;12;2021.12;798;Dengue
+371;2021;3;12;2021.12;798;Dengue Clássico
+372;2014;4;1;2014.01;36;Dengue com sinais de alarme
+373;2014;4;1;2014.01;36;Dengue com complicações
+374;2014;4;1;2014.01;36;Febre Hemorrágica do Dengue
+375;2014;4;2;2014.02;86;Dengue com sinais de alarme
+376;2014;4;2;2014.02;86;Dengue com complicações
+377;2014;4;2;2014.02;86;Febre Hemorrágica do Dengue
+378;2014;4;3;2014.03;186;Dengue com sinais de alarme
+379;2014;4;3;2014.03;186;Dengue com complicações
+380;2014;4;3;2014.03;186;Febre Hemorrágica do Dengue
+381;2014;4;4;2014.04;194;Dengue com sinais de alarme
+382;2014;4;4;2014.04;194;Dengue com complicações
+383;2014;4;4;2014.04;194;Febre Hemorrágica do Dengue
+384;2014;4;5;2014.05;104;Dengue com sinais de alarme
+385;2014;4;5;2014.05;104;Dengue com complicações
+386;2014;4;5;2014.05;104;Febre Hemorrágica do Dengue
+387;2014;4;6;2014.06;39;Dengue com sinais de alarme
+388;2014;4;6;2014.06;39;Dengue com complicações
+389;2014;4;6;2014.06;39;Febre Hemorrágica do Dengue
+390;2014;4;7;2014.07;20;Dengue com sinais de alarme
+391;2014;4;7;2014.07;20;Dengue com complicações
+392;2014;4;7;2014.07;20;Febre Hemorrágica do Dengue
+393;2014;4;8;2014.08;2;Dengue com sinais de alarme
+394;2014;4;8;2014.08;2;Dengue com complicações
+395;2014;4;8;2014.08;2;Febre Hemorrágica do Dengue
+396;2014;4;9;2014.09;9;Dengue com sinais de alarme
+397;2014;4;9;2014.09;9;Dengue com complicações
+398;2014;4;9;2014.09;9;Febre Hemorrágica do Dengue
+399;2014;4;10;2014.10;7;Dengue com sinais de alarme
+400;2014;4;10;2014.10;7;Dengue com complicações
+401;2014;4;10;2014.10;7;Febre Hemorrágica do Dengue
+402;2014;4;11;2014.11;4;Dengue com sinais de alarme
+403;2014;4;11;2014.11;4;Dengue com complicações
+404;2014;4;11;2014.11;4;Febre Hemorrágica do Dengue
+405;2014;4;12;2014.12;5;Dengue com sinais de alarme
+406;2014;4;12;2014.12;5;Dengue com complicações
+407;2014;4;12;2014.12;5;Febre Hemorrágica do Dengue
+408;2015;4;1;2015.01;29;Dengue com sinais de alarme
+409;2015;4;1;2015.01;29;Dengue com complicações
+410;2015;4;1;2015.01;29;Febre Hemorrágica do Dengue
+411;2015;4;2;2015.02;73;Dengue com sinais de alarme
+412;2015;4;2;2015.02;73;Dengue com complicações
+413;2015;4;2;2015.02;73;Febre Hemorrágica do Dengue
+414;2015;4;3;2015.03;238;Dengue com sinais de alarme
+415;2015;4;3;2015.03;238;Dengue com complicações
+416;2015;4;3;2015.03;238;Febre Hemorrágica do Dengue
+417;2015;4;4;2015.04;386;Dengue com sinais de alarme
+418;2015;4;4;2015.04;386;Dengue com complicações
+419;2015;4;4;2015.04;386;Febre Hemorrágica do Dengue
+420;2015;4;5;2015.05;212;Dengue com sinais de alarme
+421;2015;4;5;2015.05;212;Dengue com complicações
+422;2015;4;5;2015.05;212;Febre Hemorrágica do Dengue
+423;2015;4;6;2015.06;71;Dengue com sinais de alarme
+424;2015;4;6;2015.06;71;Dengue com complicações
+425;2015;4;6;2015.06;71;Febre Hemorrágica do Dengue
+426;2015;4;7;2015.07;20;Dengue com sinais de alarme
+427;2015;4;7;2015.07;20;Dengue com complicações
+428;2015;4;7;2015.07;20;Febre Hemorrágica do Dengue
+429;2015;4;8;2015.08;5;Dengue com sinais de alarme
+430;2015;4;8;2015.08;5;Dengue com complicações
+431;2015;4;8;2015.08;5;Febre Hemorrágica do Dengue
+432;2015;4;9;2015.09;3;Dengue com sinais de alarme
+433;2015;4;9;2015.09;3;Dengue com complicações
+434;2015;4;9;2015.09;3;Febre Hemorrágica do Dengue
+435;2015;4;10;2015.10;5;Dengue com sinais de alarme
+436;2015;4;10;2015.10;5;Dengue com complicações
+437;2015;4;10;2015.10;5;Febre Hemorrágica do Dengue
+438;2015;4;11;2015.11;11;Dengue com sinais de alarme
+439;2015;4;11;2015.11;11;Dengue com complicações
+440;2015;4;11;2015.11;11;Febre Hemorrágica do Dengue
+441;2015;4;12;2015.12;35;Dengue com sinais de alarme
+442;2015;4;12;2015.12;35;Dengue com complicações
+443;2015;4;12;2015.12;35;Febre Hemorrágica do Dengue
+444;2016;4;1;2016.01;260;Dengue com sinais de alarme
+445;2016;4;1;2016.01;260;Dengue com complicações
+446;2016;4;1;2016.01;260;Febre Hemorrágica do Dengue
+447;2016;4;2;2016.02;597;Dengue com sinais de alarme
+448;2016;4;2;2016.02;597;Dengue com complicações
+449;2016;4;2;2016.02;597;Febre Hemorrágica do Dengue
+450;2016;4;3;2016.03;540;Dengue com sinais de alarme
+451;2016;4;3;2016.03;540;Dengue com complicações
+452;2016;4;3;2016.03;540;Febre Hemorrágica do Dengue
+453;2016;4;4;2016.04;398;Dengue com sinais de alarme
+454;2016;4;4;2016.04;398;Dengue com complicações
+455;2016;4;4;2016.04;398;Febre Hemorrágica do Dengue
+456;2016;4;5;2016.05;105;Dengue com sinais de alarme
+457;2016;4;5;2016.05;105;Dengue com complicações
+458;2016;4;5;2016.05;105;Febre Hemorrágica do Dengue
+459;2016;4;6;2016.06;18;Dengue com sinais de alarme
+460;2016;4;6;2016.06;18;Dengue com complicações
+461;2016;4;6;2016.06;18;Febre Hemorrágica do Dengue
+462;2016;4;7;2016.07;5;Dengue com sinais de alarme
+463;2016;4;7;2016.07;5;Dengue com complicações
+464;2016;4;7;2016.07;5;Febre Hemorrágica do Dengue
+465;2016;4;8;2016.08;5;Dengue com sinais de alarme
+466;2016;4;8;2016.08;5;Dengue com complicações
+467;2016;4;8;2016.08;5;Febre Hemorrágica do Dengue
+468;2016;4;9;2016.09;2;Dengue com sinais de alarme
+469;2016;4;9;2016.09;2;Dengue com complicações
+470;2016;4;9;2016.09;2;Febre Hemorrágica do Dengue
+471;2016;4;10;2016.10;6;Dengue com sinais de alarme
+472;2016;4;10;2016.10;6;Dengue com complicações
+473;2016;4;10;2016.10;6;Febre Hemorrágica do Dengue
+474;2016;4;11;2016.11;9;Dengue com sinais de alarme
+475;2016;4;11;2016.11;9;Dengue com complicações
+476;2016;4;11;2016.11;9;Febre Hemorrágica do Dengue
+477;2016;4;12;2016.12;24;Dengue com sinais de alarme
+478;2016;4;12;2016.12;24;Dengue com complicações
+479;2016;4;12;2016.12;24;Febre Hemorrágica do Dengue
+480;2017;4;1;2017.01;27;Dengue com sinais de alarme
+481;2017;4;1;2017.01;27;Dengue com complicações
+482;2017;4;1;2017.01;27;Febre Hemorrágica do Dengue
+483;2017;4;2;2017.02;13;Dengue com sinais de alarme
+484;2017;4;2;2017.02;13;Dengue com complicações
+485;2017;4;2;2017.02;13;Febre Hemorrágica do Dengue
+486;2017;4;3;2017.03;22;Dengue com sinais de alarme
+487;2017;4;3;2017.03;22;Dengue com complicações
+488;2017;4;3;2017.03;22;Febre Hemorrágica do Dengue
+489;2017;4;4;2017.04;12;Dengue com sinais de alarme
+490;2017;4;4;2017.04;12;Dengue com complicações
+491;2017;4;4;2017.04;12;Febre Hemorrágica do Dengue
+492;2017;4;5;2017.05;19;Dengue com sinais de alarme
+493;2017;4;5;2017.05;19;Dengue com complicações
+494;2017;4;5;2017.05;19;Febre Hemorrágica do Dengue
+495;2017;4;6;2017.06;10;Dengue com sinais de alarme
+496;2017;4;6;2017.06;10;Dengue com complicações
+497;2017;4;6;2017.06;10;Febre Hemorrágica do Dengue
+498;2017;4;7;2017.07;5;Dengue com sinais de alarme
+499;2017;4;7;2017.07;5;Dengue com complicações
+500;2017;4;7;2017.07;5;Febre Hemorrágica do Dengue
+501;2017;4;8;2017.08;2;Dengue com sinais de alarme
+502;2017;4;8;2017.08;2;Dengue com complicações
+503;2017;4;8;2017.08;2;Febre Hemorrágica do Dengue
+504;2017;4;9;2017.09;5;Dengue com sinais de alarme
+505;2017;4;9;2017.09;5;Dengue com complicações
+506;2017;4;9;2017.09;5;Febre Hemorrágica do Dengue
+507;2017;4;10;2017.10;2;Dengue com sinais de alarme
+508;2017;4;10;2017.10;2;Dengue com complicações
+509;2017;4;10;2017.10;2;Febre Hemorrágica do Dengue
+510;2017;4;11;2017.11;2;Dengue com sinais de alarme
+511;2017;4;11;2017.11;2;Dengue com complicações
+512;2017;4;11;2017.11;2;Febre Hemorrágica do Dengue
+513;2017;4;12;2017.12;5;Dengue com sinais de alarme
+514;2017;4;12;2017.12;5;Dengue com complicações
+515;2017;4;12;2017.12;5;Febre Hemorrágica do Dengue
+516;2018;4;1;2018.01;5;Dengue com sinais de alarme
+517;2018;4;1;2018.01;5;Dengue com complicações
+518;2018;4;1;2018.01;5;Febre Hemorrágica do Dengue
+519;2018;4;2;2018.02;10;Dengue com sinais de alarme
+520;2018;4;2;2018.02;10;Dengue com complicações
+521;2018;4;2;2018.02;10;Febre Hemorrágica do Dengue
+522;2018;4;3;2018.03;19;Dengue com sinais de alarme
+523;2018;4;3;2018.03;19;Dengue com complicações
+524;2018;4;3;2018.03;19;Febre Hemorrágica do Dengue
+525;2018;4;4;2018.04;29;Dengue com sinais de alarme
+526;2018;4;4;2018.04;29;Dengue com complicações
+527;2018;4;4;2018.04;29;Febre Hemorrágica do Dengue
+528;2018;4;5;2018.05;29;Dengue com sinais de alarme
+529;2018;4;5;2018.05;29;Dengue com complicações
+530;2018;4;5;2018.05;29;Febre Hemorrágica do Dengue
+531;2018;4;6;2018.06;9;Dengue com sinais de alarme
+532;2018;4;6;2018.06;9;Dengue com complicações
+533;2018;4;6;2018.06;9;Febre Hemorrágica do Dengue
+534;2018;4;7;2018.07;9;Dengue com sinais de alarme
+535;2018;4;7;2018.07;9;Dengue com complicações
+536;2018;4;7;2018.07;9;Febre Hemorrágica do Dengue
+537;2018;4;8;2018.08;1;Dengue com sinais de alarme
+538;2018;4;8;2018.08;1;Dengue com complicações
+539;2018;4;8;2018.08;1;Febre Hemorrágica do Dengue
+540;2018;4;9;2018.09;1;Dengue com sinais de alarme
+541;2018;4;9;2018.09;1;Dengue com complicações
+542;2018;4;9;2018.09;1;Febre Hemorrágica do Dengue
+543;2018;4;10;2018.10;5;Dengue com sinais de alarme
+544;2018;4;10;2018.10;5;Dengue com complicações
+545;2018;4;10;2018.10;5;Febre Hemorrágica do Dengue
+546;2018;4;11;2018.11;5;Dengue com sinais de alarme
+547;2018;4;11;2018.11;5;Dengue com complicações
+548;2018;4;11;2018.11;5;Febre Hemorrágica do Dengue
+549;2018;4;12;2018.12;13;Dengue com sinais de alarme
+550;2018;4;12;2018.12;13;Dengue com complicações
+551;2018;4;12;2018.12;13;Febre Hemorrágica do Dengue
+552;2019;4;1;2019.01;98;Dengue com sinais de alarme
+553;2019;4;1;2019.01;98;Dengue com complicações
+554;2019;4;1;2019.01;98;Febre Hemorrágica do Dengue
+555;2019;4;2;2019.02;237;Dengue com sinais de alarme
+556;2019;4;2;2019.02;237;Dengue com complicações
+557;2019;4;2;2019.02;237;Febre Hemorrágica do Dengue
+558;2019;4;3;2019.03;420;Dengue com sinais de alarme
+559;2019;4;3;2019.03;420;Dengue com complicações
+560;2019;4;3;2019.03;420;Febre Hemorrágica do Dengue
+561;2019;4;4;2019.04;852;Dengue com sinais de alarme
+562;2019;4;4;2019.04;852;Dengue com complicações
+563;2019;4;4;2019.04;852;Febre Hemorrágica do Dengue
+564;2019;4;5;2019.05;969;Dengue com sinais de alarme
+565;2019;4;5;2019.05;969;Dengue com complicações
+566;2019;4;5;2019.05;969;Febre Hemorrágica do Dengue
+567;2019;4;6;2019.06;298;Dengue com sinais de alarme
+568;2019;4;6;2019.06;298;Dengue com complicações
+569;2019;4;6;2019.06;298;Febre Hemorrágica do Dengue
+570;2019;4;7;2019.07;42;Dengue com sinais de alarme
+571;2019;4;7;2019.07;42;Dengue com complicações
+572;2019;4;7;2019.07;42;Febre Hemorrágica do Dengue
+573;2019;4;8;2019.08;12;Dengue com sinais de alarme
+574;2019;4;8;2019.08;12;Dengue com complicações
+575;2019;4;8;2019.08;12;Febre Hemorrágica do Dengue
+576;2019;4;9;2019.09;11;Dengue com sinais de alarme
+577;2019;4;9;2019.09;11;Dengue com complicações
+578;2019;4;9;2019.09;11;Febre Hemorrágica do Dengue
+579;2019;4;10;2019.10;14;Dengue com sinais de alarme
+580;2019;4;10;2019.10;14;Dengue com complicações
+581;2019;4;10;2019.10;14;Febre Hemorrágica do Dengue
+582;2019;4;11;2019.11;9;Dengue com sinais de alarme
+583;2019;4;11;2019.11;9;Dengue com complicações
+584;2019;4;11;2019.11;9;Febre Hemorrágica do Dengue
+585;2019;4;12;2019.12;16;Dengue com sinais de alarme
+586;2019;4;12;2019.12;16;Dengue com complicações
+587;2019;4;12;2019.12;16;Febre Hemorrágica do Dengue
+588;2020;4;1;2020.01;33;Dengue com sinais de alarme
+589;2020;4;1;2020.01;33;Dengue com complicações
+590;2020;4;1;2020.01;33;Febre Hemorrágica do Dengue
+591;2020;4;2;2020.02;75;Dengue com sinais de alarme
+592;2020;4;2;2020.02;75;Dengue com complicações
+593;2020;4;2;2020.02;75;Febre Hemorrágica do Dengue
+594;2020;4;3;2020.03;82;Dengue com sinais de alarme
+595;2020;4;3;2020.03;82;Dengue com complicações
+596;2020;4;3;2020.03;82;Febre Hemorrágica do Dengue
+597;2020;4;4;2020.04;68;Dengue com sinais de alarme
+598;2020;4;4;2020.04;68;Dengue com complicações
+599;2020;4;4;2020.04;68;Febre Hemorrágica do Dengue
+600;2020;4;5;2020.05;33;Dengue com sinais de alarme
+601;2020;4;5;2020.05;33;Dengue com complicações
+602;2020;4;5;2020.05;33;Febre Hemorrágica do Dengue
+603;2020;4;6;2020.06;17;Dengue com sinais de alarme
+604;2020;4;6;2020.06;17;Dengue com complicações
+605;2020;4;6;2020.06;17;Febre Hemorrágica do Dengue
+606;2020;4;7;2020.07;4;Dengue com sinais de alarme
+607;2020;4;7;2020.07;4;Dengue com complicações
+608;2020;4;7;2020.07;4;Febre Hemorrágica do Dengue
+609;2020;4;8;2020.08;4;Dengue com sinais de alarme
+610;2020;4;8;2020.08;4;Dengue com complicações
+611;2020;4;8;2020.08;4;Febre Hemorrágica do Dengue
+612;2020;4;9;2020.09;4;Dengue com sinais de alarme
+613;2020;4;9;2020.09;4;Dengue com complicações
+614;2020;4;9;2020.09;4;Febre Hemorrágica do Dengue
+615;2020;4;10;2020.10;4;Dengue com sinais de alarme
+616;2020;4;10;2020.10;4;Dengue com complicações
+617;2020;4;10;2020.10;4;Febre Hemorrágica do Dengue
+618;2020;4;11;2020.11;4;Dengue com sinais de alarme
+619;2020;4;11;2020.11;4;Dengue com complicações
+620;2020;4;11;2020.11;4;Febre Hemorrágica do Dengue
+621;2020;4;12;2020.12;9;Dengue com sinais de alarme
+622;2020;4;12;2020.12;9;Dengue com complicações
+623;2020;4;12;2020.12;9;Febre Hemorrágica do Dengue
+624;2021;4;1;2021.01;3;Dengue com sinais de alarme
+625;2021;4;1;2021.01;3;Dengue com complicações
+626;2021;4;1;2021.01;3;Febre Hemorrágica do Dengue
+627;2021;4;2;2021.02;7;Dengue com sinais de alarme
+628;2021;4;2;2021.02;7;Dengue com complicações
+629;2021;4;2;2021.02;7;Febre Hemorrágica do Dengue
+630;2021;4;3;2021.03;5;Dengue com sinais de alarme
+631;2021;4;3;2021.03;5;Dengue com complicações
+632;2021;4;3;2021.03;5;Febre Hemorrágica do Dengue
+633;2021;4;4;2021.04;10;Dengue com sinais de alarme
+634;2021;4;4;2021.04;10;Dengue com complicações
+635;2021;4;4;2021.04;10;Febre Hemorrágica do Dengue
+636;2021;4;5;2021.05;9;Dengue com sinais de alarme
+637;2021;4;5;2021.05;9;Dengue com complicações
+638;2021;4;5;2021.05;9;Febre Hemorrágica do Dengue
+639;2021;4;6;2021.06;4;Dengue com sinais de alarme
+640;2021;4;6;2021.06;4;Dengue com complicações
+641;2021;4;6;2021.06;4;Febre Hemorrágica do Dengue
+642;2021;4;7;2021.07;3;Dengue com sinais de alarme
+643;2021;4;7;2021.07;3;Dengue com complicações
+644;2021;4;7;2021.07;3;Febre Hemorrágica do Dengue
+645;2021;4;8;2021.08;1;Dengue com sinais de alarme
+646;2021;4;8;2021.08;1;Dengue com complicações
+647;2021;4;8;2021.08;1;Febre Hemorrágica do Dengue
+648;2021;4;9;2021.09;2;Dengue com sinais de alarme
+649;2021;4;9;2021.09;2;Dengue com complicações
+650;2021;4;9;2021.09;2;Febre Hemorrágica do Dengue
+651;2021;4;10;2021.10;3;Dengue com sinais de alarme
+652;2021;4;10;2021.10;3;Dengue com complicações
+653;2021;4;10;2021.10;3;Febre Hemorrágica do Dengue
+654;2021;4;11;2021.11;4;Dengue com sinais de alarme
+655;2021;4;11;2021.11;4;Dengue com complicações
+656;2021;4;11;2021.11;4;Febre Hemorrágica do Dengue
+657;2021;4;12;2021.12;4;Dengue com sinais de alarme
+658;2021;4;12;2021.12;4;Dengue com complicações
+659;2021;4;12;2021.12;4;Febre Hemorrágica do Dengue
+660;2014;5;1;2014.01;2;Dengue grave
+661;2014;5;1;2014.01;2;Síndrome do Choque do Dengue
+662;2014;5;2;2014.02;4;Dengue grave
+663;2014;5;2;2014.02;4;Síndrome do Choque do Dengue
+664;2014;5;3;2014.03;15;Dengue grave
+665;2014;5;3;2014.03;15;Síndrome do Choque do Dengue
+666;2014;5;4;2014.04;13;Dengue grave
+667;2014;5;4;2014.04;13;Síndrome do Choque do Dengue
+668;2014;5;5;2014.05;7;Dengue grave
+669;2014;5;5;2014.05;7;Síndrome do Choque do Dengue
+670;2014;5;6;2014.06;1;Dengue grave
+671;2014;5;6;2014.06;1;Síndrome do Choque do Dengue
+672;2014;5;7;2014.07;2;Dengue grave
+673;2014;5;7;2014.07;2;Síndrome do Choque do Dengue
+674;2014;5;8;2014.08;0;Dengue grave
+675;2014;5;8;2014.08;0;Síndrome do Choque do Dengue
+676;2014;5;9;2014.09;2;Dengue grave
+677;2014;5;9;2014.09;2;Síndrome do Choque do Dengue
+678;2014;5;10;2014.10;1;Dengue grave
+679;2014;5;10;2014.10;1;Síndrome do Choque do Dengue
+680;2014;5;11;2014.11;1;Dengue grave
+681;2014;5;11;2014.11;1;Síndrome do Choque do Dengue
+682;2014;5;12;2014.12;4;Dengue grave
+683;2014;5;12;2014.12;4;Síndrome do Choque do Dengue
+684;2015;5;1;2015.01;7;Dengue grave
+685;2015;5;1;2015.01;7;Síndrome do Choque do Dengue
+686;2015;5;2;2015.02;10;Dengue grave
+687;2015;5;2;2015.02;10;Síndrome do Choque do Dengue
+688;2015;5;3;2015.03;28;Dengue grave
+689;2015;5;3;2015.03;28;Síndrome do Choque do Dengue
+690;2015;5;4;2015.04;39;Dengue grave
+691;2015;5;4;2015.04;39;Síndrome do Choque do Dengue
+692;2015;5;5;2015.05;29;Dengue grave
+693;2015;5;5;2015.05;29;Síndrome do Choque do Dengue
+694;2015;5;6;2015.06;11;Dengue grave
+695;2015;5;6;2015.06;11;Síndrome do Choque do Dengue
+696;2015;5;7;2015.07;1;Dengue grave
+697;2015;5;7;2015.07;1;Síndrome do Choque do Dengue
+698;2015;5;8;2015.08;1;Dengue grave
+699;2015;5;8;2015.08;1;Síndrome do Choque do Dengue
+700;2015;5;9;2015.09;3;Dengue grave
+701;2015;5;9;2015.09;3;Síndrome do Choque do Dengue
+702;2015;5;10;2015.10;3;Dengue grave
+703;2015;5;10;2015.10;3;Síndrome do Choque do Dengue
+704;2015;5;11;2015.11;0;Dengue grave
+705;2015;5;11;2015.11;0;Síndrome do Choque do Dengue
+706;2015;5;12;2015.12;2;Dengue grave
+707;2015;5;12;2015.12;2;Síndrome do Choque do Dengue
+708;2016;5;1;2016.01;32;Dengue grave
+709;2016;5;1;2016.01;32;Síndrome do Choque do Dengue
+710;2016;5;2;2016.02;80;Dengue grave
+711;2016;5;2;2016.02;80;Síndrome do Choque do Dengue
+712;2016;5;3;2016.03;89;Dengue grave
+713;2016;5;3;2016.03;89;Síndrome do Choque do Dengue
+714;2016;5;4;2016.04;46;Dengue grave
+715;2016;5;4;2016.04;46;Síndrome do Choque do Dengue
+716;2016;5;5;2016.05;20;Dengue grave
+717;2016;5;5;2016.05;20;Síndrome do Choque do Dengue
+718;2016;5;6;2016.06;3;Dengue grave
+719;2016;5;6;2016.06;3;Síndrome do Choque do Dengue
+720;2016;5;7;2016.07;0;Dengue grave
+721;2016;5;7;2016.07;0;Síndrome do Choque do Dengue
+722;2016;5;8;2016.08;2;Dengue grave
+723;2016;5;8;2016.08;2;Síndrome do Choque do Dengue
+724;2016;5;9;2016.09;3;Dengue grave
+725;2016;5;9;2016.09;3;Síndrome do Choque do Dengue
+726;2016;5;10;2016.10;0;Dengue grave
+727;2016;5;10;2016.10;0;Síndrome do Choque do Dengue
+728;2016;5;11;2016.11;1;Dengue grave
+729;2016;5;11;2016.11;1;Síndrome do Choque do Dengue
+730;2016;5;12;2016.12;4;Dengue grave
+731;2016;5;12;2016.12;4;Síndrome do Choque do Dengue
+732;2017;5;1;2017.01;8;Dengue grave
+733;2017;5;1;2017.01;8;Síndrome do Choque do Dengue
+734;2017;5;2;2017.02;2;Dengue grave
+735;2017;5;2;2017.02;2;Síndrome do Choque do Dengue
+736;2017;5;3;2017.03;3;Dengue grave
+737;2017;5;3;2017.03;3;Síndrome do Choque do Dengue
+738;2017;5;4;2017.04;4;Dengue grave
+739;2017;5;4;2017.04;4;Síndrome do Choque do Dengue
+740;2017;5;5;2017.05;2;Dengue grave
+741;2017;5;5;2017.05;2;Síndrome do Choque do Dengue
+742;2017;5;6;2017.06;1;Dengue grave
+743;2017;5;6;2017.06;1;Síndrome do Choque do Dengue
+744;2017;5;7;2017.07;2;Dengue grave
+745;2017;5;7;2017.07;2;Síndrome do Choque do Dengue
+746;2017;5;8;2017.08;0;Dengue grave
+747;2017;5;8;2017.08;0;Síndrome do Choque do Dengue
+748;2017;5;9;2017.09;0;Dengue grave
+749;2017;5;9;2017.09;0;Síndrome do Choque do Dengue
+750;2017;5;10;2017.10;2;Dengue grave
+751;2017;5;10;2017.10;2;Síndrome do Choque do Dengue
+752;2017;5;11;2017.11;2;Dengue grave
+753;2017;5;11;2017.11;2;Síndrome do Choque do Dengue
+754;2017;5;12;2017.12;2;Dengue grave
+755;2017;5;12;2017.12;2;Síndrome do Choque do Dengue
+756;2018;5;1;2018.01;4;Dengue grave
+757;2018;5;1;2018.01;4;Síndrome do Choque do Dengue
+758;2018;5;2;2018.02;0;Dengue grave
+759;2018;5;2;2018.02;0;Síndrome do Choque do Dengue
+760;2018;5;3;2018.03;2;Dengue grave
+761;2018;5;3;2018.03;2;Síndrome do Choque do Dengue
+762;2018;5;4;2018.04;5;Dengue grave
+763;2018;5;4;2018.04;5;Síndrome do Choque do Dengue
+764;2018;5;5;2018.05;5;Dengue grave
+765;2018;5;5;2018.05;5;Síndrome do Choque do Dengue
+766;2018;5;6;2018.06;2;Dengue grave
+767;2018;5;6;2018.06;2;Síndrome do Choque do Dengue
+768;2018;5;7;2018.07;1;Dengue grave
+769;2018;5;7;2018.07;1;Síndrome do Choque do Dengue
+770;2018;5;8;2018.08;1;Dengue grave
+771;2018;5;8;2018.08;1;Síndrome do Choque do Dengue
+772;2018;5;9;2018.09;0;Dengue grave
+773;2018;5;9;2018.09;0;Síndrome do Choque do Dengue
+774;2018;5;10;2018.10;1;Dengue grave
+775;2018;5;10;2018.10;1;Síndrome do Choque do Dengue
+776;2018;5;11;2018.11;1;Dengue grave
+777;2018;5;11;2018.11;1;Síndrome do Choque do Dengue
+778;2018;5;12;2018.12;9;Dengue grave
+779;2018;5;12;2018.12;9;Síndrome do Choque do Dengue
+780;2019;5;1;2019.01;16;Dengue grave
+781;2019;5;1;2019.01;16;Síndrome do Choque do Dengue
+782;2019;5;2;2019.02;27;Dengue grave
+783;2019;5;2;2019.02;27;Síndrome do Choque do Dengue
+784;2019;5;3;2019.03;58;Dengue grave
+785;2019;5;3;2019.03;58;Síndrome do Choque do Dengue
+786;2019;5;4;2019.04;84;Dengue grave
+787;2019;5;4;2019.04;84;Síndrome do Choque do Dengue
+788;2019;5;5;2019.05;70;Dengue grave
+789;2019;5;5;2019.05;70;Síndrome do Choque do Dengue
+790;2019;5;6;2019.06;13;Dengue grave
+791;2019;5;6;2019.06;13;Síndrome do Choque do Dengue
+792;2019;5;7;2019.07;2;Dengue grave
+793;2019;5;7;2019.07;2;Síndrome do Choque do Dengue
+794;2019;5;8;2019.08;2;Dengue grave
+795;2019;5;8;2019.08;2;Síndrome do Choque do Dengue
+796;2019;5;9;2019.09;2;Dengue grave
+797;2019;5;9;2019.09;2;Síndrome do Choque do Dengue
+798;2019;5;10;2019.10;0;Dengue grave
+799;2019;5;10;2019.10;0;Síndrome do Choque do Dengue
+800;2019;5;11;2019.11;4;Dengue grave
+801;2019;5;11;2019.11;4;Síndrome do Choque do Dengue
+802;2019;5;12;2019.12;3;Dengue grave
+803;2019;5;12;2019.12;3;Síndrome do Choque do Dengue
+804;2020;5;1;2020.01;8;Dengue grave
+805;2020;5;1;2020.01;8;Síndrome do Choque do Dengue
+806;2020;5;2;2020.02;5;Dengue grave
+807;2020;5;2;2020.02;5;Síndrome do Choque do Dengue
+808;2020;5;3;2020.03;9;Dengue grave
+809;2020;5;3;2020.03;9;Síndrome do Choque do Dengue
+810;2020;5;4;2020.04;7;Dengue grave
+811;2020;5;4;2020.04;7;Síndrome do Choque do Dengue
+812;2020;5;5;2020.05;8;Dengue grave
+813;2020;5;5;2020.05;8;Síndrome do Choque do Dengue
+814;2020;5;6;2020.06;4;Dengue grave
+815;2020;5;6;2020.06;4;Síndrome do Choque do Dengue
+816;2020;5;7;2020.07;3;Dengue grave
+817;2020;5;7;2020.07;3;Síndrome do Choque do Dengue
+818;2020;5;8;2020.08;0;Dengue grave
+819;2020;5;8;2020.08;0;Síndrome do Choque do Dengue
+820;2020;5;9;2020.09;3;Dengue grave
+821;2020;5;9;2020.09;3;Síndrome do Choque do Dengue
+822;2020;5;10;2020.10;0;Dengue grave
+823;2020;5;10;2020.10;0;Síndrome do Choque do Dengue
+824;2020;5;11;2020.11;0;Dengue grave
+825;2020;5;11;2020.11;0;Síndrome do Choque do Dengue
+826;2020;5;12;2020.12;1;Dengue grave
+827;2020;5;12;2020.12;1;Síndrome do Choque do Dengue
+828;2021;5;1;2021.01;2;Dengue grave
+829;2021;5;1;2021.01;2;Síndrome do Choque do Dengue
+830;2021;5;2;2021.02;1;Dengue grave
+831;2021;5;2;2021.02;1;Síndrome do Choque do Dengue
+832;2021;5;3;2021.03;1;Dengue grave
+833;2021;5;3;2021.03;1;Síndrome do Choque do Dengue
+834;2021;5;4;2021.04;3;Dengue grave
+835;2021;5;4;2021.04;3;Síndrome do Choque do Dengue
+836;2021;5;5;2021.05;2;Dengue grave
+837;2021;5;5;2021.05;2;Síndrome do Choque do Dengue
+838;2021;5;6;2021.06;0;Dengue grave
+839;2021;5;6;2021.06;0;Síndrome do Choque do Dengue
+840;2021;5;7;2021.07;1;Dengue grave
+841;2021;5;7;2021.07;1;Síndrome do Choque do Dengue
+842;2021;5;8;2021.08;1;Dengue grave
+843;2021;5;8;2021.08;1;Síndrome do Choque do Dengue
+844;2021;5;9;2021.09;1;Dengue grave
+845;2021;5;9;2021.09;1;Síndrome do Choque do Dengue
+846;2021;5;10;2021.10;1;Dengue grave
+847;2021;5;10;2021.10;1;Síndrome do Choque do Dengue
+848;2021;5;11;2021.11;1;Dengue grave
+849;2021;5;11;2021.11;1;Síndrome do Choque do Dengue
+850;2021;5;12;2021.12;0;Dengue grave
+851;2021;5;12;2021.12;0;Síndrome do Choque do Dengue
