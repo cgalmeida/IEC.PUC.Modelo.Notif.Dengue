@@ -1,0 +1,541 @@
+,Mes,Casos,Codigo,Descricao
+0,2014-01-31,1106,1,Ign/Branco
+1,2014-02-28,1421,1,Ign/Branco
+2,2014-03-31,1892,1,Ign/Branco
+3,2014-04-30,2999,1,Ign/Branco
+4,2014-05-31,2059,1,Ign/Branco
+5,2014-06-30,946,1,Ign/Branco
+6,2014-07-31,346,1,Ign/Branco
+7,2014-08-31,209,1,Ign/Branco
+8,2014-09-30,190,1,Ign/Branco
+9,2014-10-31,220,1,Ign/Branco
+10,2014-11-30,368,1,Ign/Branco
+11,2014-12-31,478,1,Ign/Branco
+12,2015-01-31,981,1,Ign/Branco
+13,2015-02-28,1577,1,Ign/Branco
+14,2015-03-31,4723,1,Ign/Branco
+15,2015-04-30,9684,1,Ign/Branco
+16,2015-05-31,10722,1,Ign/Branco
+17,2015-06-30,3798,1,Ign/Branco
+18,2015-07-31,1089,1,Ign/Branco
+19,2015-08-31,433,1,Ign/Branco
+20,2015-09-30,347,1,Ign/Branco
+21,2015-10-31,413,1,Ign/Branco
+22,2015-11-30,1042,1,Ign/Branco
+23,2015-12-31,4467,1,Ign/Branco
+24,2016-01-31,11303,1,Ign/Branco
+25,2016-02-29,36410,1,Ign/Branco
+26,2016-03-31,48287,1,Ign/Branco
+27,2016-04-30,32718,1,Ign/Branco
+28,2016-05-31,10682,1,Ign/Branco
+29,2016-06-30,1649,1,Ign/Branco
+30,2016-07-31,464,1,Ign/Branco
+31,2016-08-31,190,1,Ign/Branco
+32,2016-09-30,153,1,Ign/Branco
+33,2016-10-31,182,1,Ign/Branco
+34,2016-11-30,375,1,Ign/Branco
+35,2016-12-31,733,1,Ign/Branco
+36,2017-01-31,1903,1,Ign/Branco
+37,2017-02-28,1154,1,Ign/Branco
+38,2017-03-31,1260,1,Ign/Branco
+39,2017-04-30,859,1,Ign/Branco
+40,2017-05-31,663,1,Ign/Branco
+41,2017-06-30,334,1,Ign/Branco
+42,2017-07-31,154,1,Ign/Branco
+43,2017-08-31,160,1,Ign/Branco
+44,2017-09-30,190,1,Ign/Branco
+45,2017-10-31,246,1,Ign/Branco
+46,2017-11-30,317,1,Ign/Branco
+47,2017-12-31,419,1,Ign/Branco
+48,2018-01-31,469,1,Ign/Branco
+49,2018-02-28,531,1,Ign/Branco
+50,2018-03-31,695,1,Ign/Branco
+51,2018-04-30,981,1,Ign/Branco
+52,2018-05-31,669,1,Ign/Branco
+53,2018-06-30,306,1,Ign/Branco
+54,2018-07-31,205,1,Ign/Branco
+55,2018-08-31,151,1,Ign/Branco
+56,2018-09-30,167,1,Ign/Branco
+57,2018-10-31,344,1,Ign/Branco
+58,2018-11-30,519,1,Ign/Branco
+59,2018-12-31,1096,1,Ign/Branco
+60,2019-01-31,3173,1,Ign/Branco
+61,2019-02-28,6281,1,Ign/Branco
+62,2019-03-31,13120,1,Ign/Branco
+63,2019-04-30,28329,1,Ign/Branco
+64,2019-05-31,30856,1,Ign/Branco
+65,2019-06-30,9572,1,Ign/Branco
+66,2019-07-31,1887,1,Ign/Branco
+67,2019-08-31,586,1,Ign/Branco
+68,2019-09-30,614,1,Ign/Branco
+69,2019-10-31,424,1,Ign/Branco
+70,2019-11-30,430,1,Ign/Branco
+71,2019-12-31,701,1,Ign/Branco
+72,2020-01-31,2132,1,Ign/Branco
+73,2020-02-29,3807,1,Ign/Branco
+74,2020-03-31,5072,1,Ign/Branco
+75,2020-04-30,4870,1,Ign/Branco
+76,2020-05-31,3770,1,Ign/Branco
+77,2020-06-30,1920,1,Ign/Branco
+78,2020-07-31,1017,1,Ign/Branco
+79,2020-08-31,573,1,Ign/Branco
+80,2020-09-30,606,1,Ign/Branco
+81,2020-10-31,505,1,Ign/Branco
+82,2020-11-30,638,1,Ign/Branco
+83,2020-12-31,844,1,Ign/Branco
+84,2021-01-31,683,1,Ign/Branco
+85,2021-02-28,663,1,Ign/Branco
+86,2021-03-31,1438,1,Ign/Branco
+87,2021-04-30,1319,1,Ign/Branco
+88,2021-05-31,1372,1,Ign/Branco
+89,2021-06-30,689,1,Ign/Branco
+90,2021-07-31,360,1,Ign/Branco
+91,2021-08-31,239,1,Ign/Branco
+92,2021-09-30,323,1,Ign/Branco
+93,2021-10-31,318,1,Ign/Branco
+94,2021-11-30,632,1,Ign/Branco
+95,2021-12-31,1497,1,Ign/Branco
+96,2022-01-31,3188,1,Ign/Branco
+97,2022-02-28,7646,1,Ign/Branco
+98,2022-03-31,21752,1,Ign/Branco
+99,2022-04-30,31107,1,Ign/Branco
+100,2022-05-31,30922,1,Ign/Branco
+101,2022-06-30,21169,1,Ign/Branco
+102,2022-07-31,6011,1,Ign/Branco
+103,2022-08-31,1578,1,Ign/Branco
+104,2022-09-30,792,1,Ign/Branco
+105,2022-10-31,785,1,Ign/Branco
+106,2022-11-30,706,1,Ign/Branco
+107,2022-12-31,803,1,Ign/Branco
+0,2014-01-31,3249,2,Cura
+1,2014-02-28,7041,2,Cura
+2,2014-03-31,8340,2,Cura
+3,2014-04-30,12476,2,Cura
+4,2014-05-31,8394,2,Cura
+5,2014-06-30,3370,2,Cura
+6,2014-07-31,971,2,Cura
+7,2014-08-31,386,2,Cura
+8,2014-09-30,441,2,Cura
+9,2014-10-31,482,2,Cura
+10,2014-11-30,486,2,Cura
+11,2014-12-31,649,2,Cura
+12,2015-01-31,3674,2,Cura
+13,2015-02-28,6617,2,Cura
+14,2015-03-31,21226,2,Cura
+15,2015-04-30,46338,2,Cura
+16,2015-05-31,45625,2,Cura
+17,2015-06-30,13853,2,Cura
+18,2015-07-31,3136,2,Cura
+19,2015-08-31,1200,2,Cura
+20,2015-09-30,804,2,Cura
+21,2015-10-31,873,2,Cura
+22,2015-11-30,2345,2,Cura
+23,2015-12-31,8621,2,Cura
+24,2016-01-31,39060,2,Cura
+25,2016-02-29,91904,2,Cura
+26,2016-03-31,115069,2,Cura
+27,2016-04-30,92482,2,Cura
+28,2016-05-31,34868,2,Cura
+29,2016-06-30,6908,2,Cura
+30,2016-07-31,1273,2,Cura
+31,2016-08-31,842,2,Cura
+32,2016-09-30,638,2,Cura
+33,2016-10-31,686,2,Cura
+34,2016-11-30,748,2,Cura
+35,2016-12-31,1030,2,Cura
+36,2017-01-31,2209,2,Cura
+37,2017-02-28,3302,2,Cura
+38,2017-03-31,4170,2,Cura
+39,2017-04-30,2832,2,Cura
+40,2017-05-31,2437,2,Cura
+41,2017-06-30,1314,2,Cura
+42,2017-07-31,476,2,Cura
+43,2017-08-31,374,2,Cura
+44,2017-09-30,315,2,Cura
+45,2017-10-31,397,2,Cura
+46,2017-11-30,368,2,Cura
+47,2017-12-31,603,2,Cura
+48,2018-01-31,1454,2,Cura
+49,2018-02-28,1671,2,Cura
+50,2018-03-31,3398,2,Cura
+51,2018-04-30,6360,2,Cura
+52,2018-05-31,3898,2,Cura
+53,2018-06-30,1563,2,Cura
+54,2018-07-31,673,2,Cura
+55,2018-08-31,406,2,Cura
+56,2018-09-30,335,2,Cura
+57,2018-10-31,444,2,Cura
+58,2018-11-30,831,2,Cura
+59,2018-12-31,1998,2,Cura
+60,2019-01-31,10741,2,Cura
+61,2019-02-28,25262,2,Cura
+62,2019-03-31,55607,2,Cura
+63,2019-04-30,114226,2,Cura
+64,2019-05-31,125788,2,Cura
+65,2019-06-30,36796,2,Cura
+66,2019-07-31,7499,2,Cura
+67,2019-08-31,1602,2,Cura
+68,2019-09-30,1354,2,Cura
+69,2019-10-31,1158,2,Cura
+70,2019-11-30,985,2,Cura
+71,2019-12-31,1605,2,Cura
+72,2020-01-31,5155,2,Cura
+73,2020-02-29,8275,2,Cura
+74,2020-03-31,12029,2,Cura
+75,2020-04-30,13722,2,Cura
+76,2020-05-31,8693,2,Cura
+77,2020-06-30,3353,2,Cura
+78,2020-07-31,1682,2,Cura
+79,2020-08-31,840,2,Cura
+80,2020-09-30,674,2,Cura
+81,2020-10-31,596,2,Cura
+82,2020-11-30,684,2,Cura
+83,2020-12-31,1046,2,Cura
+84,2021-01-31,1278,2,Cura
+85,2021-02-28,2069,2,Cura
+86,2021-03-31,3356,2,Cura
+87,2021-04-30,2582,2,Cura
+88,2021-05-31,1518,2,Cura
+89,2021-06-30,1105,2,Cura
+90,2021-07-31,473,2,Cura
+91,2021-08-31,378,2,Cura
+92,2021-09-30,301,2,Cura
+93,2021-10-31,269,2,Cura
+94,2021-11-30,445,2,Cura
+95,2021-12-31,599,2,Cura
+96,2022-01-31,5482,2,Cura
+97,2022-02-28,25037,2,Cura
+98,2022-03-31,58704,2,Cura
+99,2022-04-30,85454,2,Cura
+100,2022-05-31,103466,2,Cura
+101,2022-06-30,80446,2,Cura
+102,2022-07-31,21979,2,Cura
+103,2022-08-31,4529,2,Cura
+104,2022-09-30,1390,2,Cura
+105,2022-10-31,1178,2,Cura
+106,2022-11-30,1105,2,Cura
+107,2022-12-31,1075,2,Cura
+0,2014-01-31,3,3,Obito pelo agravo notificado
+1,2014-02-28,2,3,Obito pelo agravo notificado
+2,2014-03-31,16,3,Obito pelo agravo notificado
+3,2014-04-30,9,3,Obito pelo agravo notificado
+4,2014-05-31,11,3,Obito pelo agravo notificado
+5,2014-06-30,2,3,Obito pelo agravo notificado
+6,2014-07-31,5,3,Obito pelo agravo notificado
+7,2014-08-31,0,3,Obito pelo agravo notificado
+8,2014-09-30,1,3,Obito pelo agravo notificado
+9,2014-10-31,2,3,Obito pelo agravo notificado
+10,2014-11-30,1,3,Obito pelo agravo notificado
+11,2014-12-31,0,3,Obito pelo agravo notificado
+12,2015-01-31,6,3,Obito pelo agravo notificado
+13,2015-02-28,3,3,Obito pelo agravo notificado
+14,2015-03-31,11,3,Obito pelo agravo notificado
+15,2015-04-30,18,3,Obito pelo agravo notificado
+16,2015-05-31,21,3,Obito pelo agravo notificado
+17,2015-06-30,8,3,Obito pelo agravo notificado
+18,2015-07-31,3,3,Obito pelo agravo notificado
+19,2015-08-31,0,3,Obito pelo agravo notificado
+20,2015-09-30,0,3,Obito pelo agravo notificado
+21,2015-10-31,2,3,Obito pelo agravo notificado
+22,2015-11-30,1,3,Obito pelo agravo notificado
+23,2015-12-31,2,3,Obito pelo agravo notificado
+24,2016-01-31,16,3,Obito pelo agravo notificado
+25,2016-02-29,62,3,Obito pelo agravo notificado
+26,2016-03-31,83,3,Obito pelo agravo notificado
+27,2016-04-30,62,3,Obito pelo agravo notificado
+28,2016-05-31,25,3,Obito pelo agravo notificado
+29,2016-06-30,8,3,Obito pelo agravo notificado
+30,2016-07-31,3,3,Obito pelo agravo notificado
+31,2016-08-31,1,3,Obito pelo agravo notificado
+32,2016-09-30,4,3,Obito pelo agravo notificado
+33,2016-10-31,0,3,Obito pelo agravo notificado
+34,2016-11-30,1,3,Obito pelo agravo notificado
+35,2016-12-31,0,3,Obito pelo agravo notificado
+36,2017-01-31,2,3,Obito pelo agravo notificado
+37,2017-02-28,4,3,Obito pelo agravo notificado
+38,2017-03-31,3,3,Obito pelo agravo notificado
+39,2017-04-30,3,3,Obito pelo agravo notificado
+40,2017-05-31,2,3,Obito pelo agravo notificado
+41,2017-06-30,1,3,Obito pelo agravo notificado
+42,2017-07-31,1,3,Obito pelo agravo notificado
+43,2017-08-31,1,3,Obito pelo agravo notificado
+44,2017-09-30,0,3,Obito pelo agravo notificado
+45,2017-10-31,0,3,Obito pelo agravo notificado
+46,2017-11-30,3,3,Obito pelo agravo notificado
+47,2017-12-31,0,3,Obito pelo agravo notificado
+48,2018-01-31,2,3,Obito pelo agravo notificado
+49,2018-02-28,2,3,Obito pelo agravo notificado
+50,2018-03-31,0,3,Obito pelo agravo notificado
+51,2018-04-30,2,3,Obito pelo agravo notificado
+52,2018-05-31,1,3,Obito pelo agravo notificado
+53,2018-06-30,1,3,Obito pelo agravo notificado
+54,2018-07-31,2,3,Obito pelo agravo notificado
+55,2018-08-31,1,3,Obito pelo agravo notificado
+56,2018-09-30,0,3,Obito pelo agravo notificado
+57,2018-10-31,0,3,Obito pelo agravo notificado
+58,2018-11-30,1,3,Obito pelo agravo notificado
+59,2018-12-31,3,3,Obito pelo agravo notificado
+60,2019-01-31,6,3,Obito pelo agravo notificado
+61,2019-02-28,13,3,Obito pelo agravo notificado
+62,2019-03-31,31,3,Obito pelo agravo notificado
+63,2019-04-30,56,3,Obito pelo agravo notificado
+64,2019-05-31,58,3,Obito pelo agravo notificado
+65,2019-06-30,14,3,Obito pelo agravo notificado
+66,2019-07-31,2,3,Obito pelo agravo notificado
+67,2019-08-31,1,3,Obito pelo agravo notificado
+68,2019-09-30,1,3,Obito pelo agravo notificado
+69,2019-10-31,1,3,Obito pelo agravo notificado
+70,2019-11-30,1,3,Obito pelo agravo notificado
+71,2019-12-31,1,3,Obito pelo agravo notificado
+72,2020-01-31,2,3,Obito pelo agravo notificado
+73,2020-02-29,2,3,Obito pelo agravo notificado
+74,2020-03-31,2,3,Obito pelo agravo notificado
+75,2020-04-30,4,3,Obito pelo agravo notificado
+76,2020-05-31,2,3,Obito pelo agravo notificado
+77,2020-06-30,1,3,Obito pelo agravo notificado
+78,2020-07-31,1,3,Obito pelo agravo notificado
+79,2020-08-31,0,3,Obito pelo agravo notificado
+80,2020-09-30,1,3,Obito pelo agravo notificado
+81,2020-10-31,1,3,Obito pelo agravo notificado
+82,2020-11-30,0,3,Obito pelo agravo notificado
+83,2020-12-31,1,3,Obito pelo agravo notificado
+84,2021-01-31,0,3,Obito pelo agravo notificado
+85,2021-02-28,0,3,Obito pelo agravo notificado
+86,2021-03-31,0,3,Obito pelo agravo notificado
+87,2021-04-30,2,3,Obito pelo agravo notificado
+88,2021-05-31,2,3,Obito pelo agravo notificado
+89,2021-06-30,0,3,Obito pelo agravo notificado
+90,2021-07-31,1,3,Obito pelo agravo notificado
+91,2021-08-31,0,3,Obito pelo agravo notificado
+92,2021-09-30,1,3,Obito pelo agravo notificado
+93,2021-10-31,0,3,Obito pelo agravo notificado
+94,2021-11-30,0,3,Obito pelo agravo notificado
+95,2021-12-31,1,3,Obito pelo agravo notificado
+96,2022-01-31,3,3,Obito pelo agravo notificado
+97,2022-02-28,12,3,Obito pelo agravo notificado
+98,2022-03-31,38,3,Obito pelo agravo notificado
+99,2022-04-30,58,3,Obito pelo agravo notificado
+100,2022-05-31,60,3,Obito pelo agravo notificado
+101,2022-06-30,42,3,Obito pelo agravo notificado
+102,2022-07-31,12,3,Obito pelo agravo notificado
+103,2022-08-31,3,3,Obito pelo agravo notificado
+104,2022-09-30,2,3,Obito pelo agravo notificado
+105,2022-10-31,3,3,Obito pelo agravo notificado
+106,2022-11-30,1,3,Obito pelo agravo notificado
+107,2022-12-31,2,3,Obito pelo agravo notificado
+0,2014-01-31,0,4,Obito por outra causa
+1,2014-02-28,1,4,Obito por outra causa
+2,2014-03-31,0,4,Obito por outra causa
+3,2014-04-30,0,4,Obito por outra causa
+4,2014-05-31,1,4,Obito por outra causa
+5,2014-06-30,1,4,Obito por outra causa
+6,2014-07-31,0,4,Obito por outra causa
+7,2014-08-31,0,4,Obito por outra causa
+8,2014-09-30,0,4,Obito por outra causa
+9,2014-10-31,1,4,Obito por outra causa
+10,2014-11-30,0,4,Obito por outra causa
+11,2014-12-31,1,4,Obito por outra causa
+12,2015-01-31,1,4,Obito por outra causa
+13,2015-02-28,2,4,Obito por outra causa
+14,2015-03-31,2,4,Obito por outra causa
+15,2015-04-30,2,4,Obito por outra causa
+16,2015-05-31,5,4,Obito por outra causa
+17,2015-06-30,1,4,Obito por outra causa
+18,2015-07-31,1,4,Obito por outra causa
+19,2015-08-31,0,4,Obito por outra causa
+20,2015-09-30,0,4,Obito por outra causa
+21,2015-10-31,1,4,Obito por outra causa
+22,2015-11-30,0,4,Obito por outra causa
+23,2015-12-31,0,4,Obito por outra causa
+24,2016-01-31,5,4,Obito por outra causa
+25,2016-02-29,8,4,Obito por outra causa
+26,2016-03-31,12,4,Obito por outra causa
+27,2016-04-30,10,4,Obito por outra causa
+28,2016-05-31,3,4,Obito por outra causa
+29,2016-06-30,2,4,Obito por outra causa
+30,2016-07-31,1,4,Obito por outra causa
+31,2016-08-31,0,4,Obito por outra causa
+32,2016-09-30,0,4,Obito por outra causa
+33,2016-10-31,0,4,Obito por outra causa
+34,2016-11-30,0,4,Obito por outra causa
+35,2016-12-31,0,4,Obito por outra causa
+36,2017-01-31,4,4,Obito por outra causa
+37,2017-02-28,5,4,Obito por outra causa
+38,2017-03-31,2,4,Obito por outra causa
+39,2017-04-30,0,4,Obito por outra causa
+40,2017-05-31,3,4,Obito por outra causa
+41,2017-06-30,0,4,Obito por outra causa
+42,2017-07-31,1,4,Obito por outra causa
+43,2017-08-31,2,4,Obito por outra causa
+44,2017-09-30,2,4,Obito por outra causa
+45,2017-10-31,0,4,Obito por outra causa
+46,2017-11-30,1,4,Obito por outra causa
+47,2017-12-31,1,4,Obito por outra causa
+48,2018-01-31,0,4,Obito por outra causa
+49,2018-02-28,1,4,Obito por outra causa
+50,2018-03-31,1,4,Obito por outra causa
+51,2018-04-30,0,4,Obito por outra causa
+52,2018-05-31,2,4,Obito por outra causa
+53,2018-06-30,1,4,Obito por outra causa
+54,2018-07-31,2,4,Obito por outra causa
+55,2018-08-31,1,4,Obito por outra causa
+56,2018-09-30,0,4,Obito por outra causa
+57,2018-10-31,0,4,Obito por outra causa
+58,2018-11-30,0,4,Obito por outra causa
+59,2018-12-31,1,4,Obito por outra causa
+60,2019-01-31,1,4,Obito por outra causa
+61,2019-02-28,1,4,Obito por outra causa
+62,2019-03-31,3,4,Obito por outra causa
+63,2019-04-30,6,4,Obito por outra causa
+64,2019-05-31,12,4,Obito por outra causa
+65,2019-06-30,3,4,Obito por outra causa
+66,2019-07-31,3,4,Obito por outra causa
+67,2019-08-31,3,4,Obito por outra causa
+68,2019-09-30,0,4,Obito por outra causa
+69,2019-10-31,0,4,Obito por outra causa
+70,2019-11-30,0,4,Obito por outra causa
+71,2019-12-31,0,4,Obito por outra causa
+72,2020-01-31,1,4,Obito por outra causa
+73,2020-02-29,0,4,Obito por outra causa
+74,2020-03-31,2,4,Obito por outra causa
+75,2020-04-30,2,4,Obito por outra causa
+76,2020-05-31,2,4,Obito por outra causa
+77,2020-06-30,3,4,Obito por outra causa
+78,2020-07-31,0,4,Obito por outra causa
+79,2020-08-31,1,4,Obito por outra causa
+80,2020-09-30,0,4,Obito por outra causa
+81,2020-10-31,0,4,Obito por outra causa
+82,2020-11-30,0,4,Obito por outra causa
+83,2020-12-31,0,4,Obito por outra causa
+84,2021-01-31,1,4,Obito por outra causa
+85,2021-02-28,0,4,Obito por outra causa
+86,2021-03-31,0,4,Obito por outra causa
+87,2021-04-30,2,4,Obito por outra causa
+88,2021-05-31,1,4,Obito por outra causa
+89,2021-06-30,2,4,Obito por outra causa
+90,2021-07-31,2,4,Obito por outra causa
+91,2021-08-31,0,4,Obito por outra causa
+92,2021-09-30,0,4,Obito por outra causa
+93,2021-10-31,1,4,Obito por outra causa
+94,2021-11-30,0,4,Obito por outra causa
+95,2021-12-31,0,4,Obito por outra causa
+96,2022-01-31,0,4,Obito por outra causa
+97,2022-02-28,2,4,Obito por outra causa
+98,2022-03-31,4,4,Obito por outra causa
+99,2022-04-30,7,4,Obito por outra causa
+100,2022-05-31,7,4,Obito por outra causa
+101,2022-06-30,7,4,Obito por outra causa
+102,2022-07-31,2,4,Obito por outra causa
+103,2022-08-31,1,4,Obito por outra causa
+104,2022-09-30,1,4,Obito por outra causa
+105,2022-10-31,0,4,Obito por outra causa
+106,2022-11-30,0,4,Obito por outra causa
+107,2022-12-31,0,4,Obito por outra causa
+0,2014-01-31,0,5,Obito em investigacao
+1,2014-02-28,0,5,Obito em investigacao
+2,2014-03-31,0,5,Obito em investigacao
+3,2014-04-30,1,5,Obito em investigacao
+4,2014-05-31,0,5,Obito em investigacao
+5,2014-06-30,0,5,Obito em investigacao
+6,2014-07-31,0,5,Obito em investigacao
+7,2014-08-31,0,5,Obito em investigacao
+8,2014-09-30,1,5,Obito em investigacao
+9,2014-10-31,2,5,Obito em investigacao
+10,2014-11-30,0,5,Obito em investigacao
+11,2014-12-31,0,5,Obito em investigacao
+12,2015-01-31,0,5,Obito em investigacao
+13,2015-02-28,0,5,Obito em investigacao
+14,2015-03-31,0,5,Obito em investigacao
+15,2015-04-30,3,5,Obito em investigacao
+16,2015-05-31,1,5,Obito em investigacao
+17,2015-06-30,2,5,Obito em investigacao
+18,2015-07-31,1,5,Obito em investigacao
+19,2015-08-31,1,5,Obito em investigacao
+20,2015-09-30,1,5,Obito em investigacao
+21,2015-10-31,0,5,Obito em investigacao
+22,2015-11-30,0,5,Obito em investigacao
+23,2015-12-31,1,5,Obito em investigacao
+24,2016-01-31,0,5,Obito em investigacao
+25,2016-02-29,4,5,Obito em investigacao
+26,2016-03-31,6,5,Obito em investigacao
+27,2016-04-30,7,5,Obito em investigacao
+28,2016-05-31,2,5,Obito em investigacao
+29,2016-06-30,1,5,Obito em investigacao
+30,2016-07-31,1,5,Obito em investigacao
+31,2016-08-31,0,5,Obito em investigacao
+32,2016-09-30,1,5,Obito em investigacao
+33,2016-10-31,0,5,Obito em investigacao
+34,2016-11-30,1,5,Obito em investigacao
+35,2016-12-31,0,5,Obito em investigacao
+36,2017-01-31,0,5,Obito em investigacao
+37,2017-02-28,0,5,Obito em investigacao
+38,2017-03-31,0,5,Obito em investigacao
+39,2017-04-30,0,5,Obito em investigacao
+40,2017-05-31,0,5,Obito em investigacao
+41,2017-06-30,0,5,Obito em investigacao
+42,2017-07-31,0,5,Obito em investigacao
+43,2017-08-31,0,5,Obito em investigacao
+44,2017-09-30,0,5,Obito em investigacao
+45,2017-10-31,0,5,Obito em investigacao
+46,2017-11-30,0,5,Obito em investigacao
+47,2017-12-31,0,5,Obito em investigacao
+48,2018-01-31,0,5,Obito em investigacao
+49,2018-02-28,0,5,Obito em investigacao
+50,2018-03-31,3,5,Obito em investigacao
+51,2018-04-30,1,5,Obito em investigacao
+52,2018-05-31,0,5,Obito em investigacao
+53,2018-06-30,1,5,Obito em investigacao
+54,2018-07-31,1,5,Obito em investigacao
+55,2018-08-31,0,5,Obito em investigacao
+56,2018-09-30,0,5,Obito em investigacao
+57,2018-10-31,0,5,Obito em investigacao
+58,2018-11-30,0,5,Obito em investigacao
+59,2018-12-31,0,5,Obito em investigacao
+60,2019-01-31,0,5,Obito em investigacao
+61,2019-02-28,2,5,Obito em investigacao
+62,2019-03-31,2,5,Obito em investigacao
+63,2019-04-30,15,5,Obito em investigacao
+64,2019-05-31,13,5,Obito em investigacao
+65,2019-06-30,10,5,Obito em investigacao
+66,2019-07-31,4,5,Obito em investigacao
+67,2019-08-31,1,5,Obito em investigacao
+68,2019-09-30,1,5,Obito em investigacao
+69,2019-10-31,5,5,Obito em investigacao
+70,2019-11-30,3,5,Obito em investigacao
+71,2019-12-31,0,5,Obito em investigacao
+72,2020-01-31,4,5,Obito em investigacao
+73,2020-02-29,7,5,Obito em investigacao
+74,2020-03-31,9,5,Obito em investigacao
+75,2020-04-30,10,5,Obito em investigacao
+76,2020-05-31,7,5,Obito em investigacao
+77,2020-06-30,4,5,Obito em investigacao
+78,2020-07-31,4,5,Obito em investigacao
+79,2020-08-31,0,5,Obito em investigacao
+80,2020-09-30,0,5,Obito em investigacao
+81,2020-10-31,3,5,Obito em investigacao
+82,2020-11-30,1,5,Obito em investigacao
+83,2020-12-31,1,5,Obito em investigacao
+84,2021-01-31,1,5,Obito em investigacao
+85,2021-02-28,1,5,Obito em investigacao
+86,2021-03-31,2,5,Obito em investigacao
+87,2021-04-30,2,5,Obito em investigacao
+88,2021-05-31,2,5,Obito em investigacao
+89,2021-06-30,0,5,Obito em investigacao
+90,2021-07-31,0,5,Obito em investigacao
+91,2021-08-31,0,5,Obito em investigacao
+92,2021-09-30,2,5,Obito em investigacao
+93,2021-10-31,3,5,Obito em investigacao
+94,2021-11-30,1,5,Obito em investigacao
+95,2021-12-31,2,5,Obito em investigacao
+96,2022-01-31,1,5,Obito em investigacao
+97,2022-02-28,1,5,Obito em investigacao
+98,2022-03-31,4,5,Obito em investigacao
+99,2022-04-30,5,5,Obito em investigacao
+100,2022-05-31,12,5,Obito em investigacao
+101,2022-06-30,8,5,Obito em investigacao
+102,2022-07-31,6,5,Obito em investigacao
+103,2022-08-31,3,5,Obito em investigacao
+104,2022-09-30,1,5,Obito em investigacao
+105,2022-10-31,2,5,Obito em investigacao
+106,2022-11-30,3,5,Obito em investigacao
+107,2022-12-31,3,5,Obito em investigacao

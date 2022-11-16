@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 ## -------------------------------GARFICO PREDITO X REAL -----------------------------##
 # Load data
-df_ts = pd.read_csv('../results/dengue_mg_total.csv')
+df_ts = pd.read_csv('../models/results/dengue_mg_total.csv')
 #df = pd.read_csv(
 #    "https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv")
 df_ts.columns = [col.replace("AAPL.", "") for col in df_ts.columns]
@@ -110,7 +110,7 @@ figts.update_layout(
 
 # Iris bar figure
 def drawFigure():
-    long_df = pd.read_csv('../results/classificacao_vw.csv')
+    long_df = pd.read_csv('../models/results/classificacao_vw.csv')
     long_df.loc[long_df["Descricao"] == "Dengue", "Descricao"] = "Dengue Clássico"
     long_df['Ano'] = pd.DatetimeIndex(long_df['Mes']).year
     long_df = long_df[['Ano', 'Codigo', 'Descricao', 'Casos']]
@@ -138,7 +138,7 @@ def drawFigure():
     
 def drawMultipleSeriesFigure():
     
-    long_df = pd.read_csv('../results/faixa_vw.csv')
+    long_df = pd.read_csv('../models/results/faixa_vw.csv')
     long_df['Ano'] = pd.DatetimeIndex(long_df['Mes']).year
     long_df = long_df[['Ano', 'Codigo', 'Descricao', 'Casos']]
     long_df = long_df.groupby(['Ano', 'Codigo', 'Descricao']).sum()
@@ -200,7 +200,7 @@ def drawTimeSeriesFigure():
 
 # Macroregion figure
 def drawRegionFigure():
-    long_df = pd.read_csv('../results/macrorregiao_vw.csv')
+    long_df = pd.read_csv('../models/results/macrorregiao_vw.csv')
     long_df['Ano'] = pd.DatetimeIndex(long_df['Mes']).year
     long_df = long_df[['Ano', 'Codigo', 'Descricao', 'Casos']]
     long_df = long_df.groupby(['Ano', 'Codigo', 'Descricao']).sum()
