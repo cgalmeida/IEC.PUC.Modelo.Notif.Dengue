@@ -110,15 +110,20 @@ figts.update_layout(
 
 # Iris bar figure
 def drawFigure():
-    dfn = px.data.stocks(indexed=True)-1
-    
-    #df1["Evolucao"] = df1["Evolucao"].astype('category')
-    #df1["Evolucao"] = df1["Evolucao"].cat.rename_categories(['Ign/Branco', 'Cura', 'Obito pelo agravo notificado','Obito por outra causa', 'Obito em investigacao'])
+    long_df = pd.read_csv('../results/classificacao_vw.csv')
+    long_df.loc[long_df["Descricao"] == "Dengue", "Descricao"] = "Dengue Clássico"
+    long_df['Ano'] = pd.DatetimeIndex(long_df['Mes']).year
+    long_df = long_df[['Ano', 'Codigo', 'Descricao', 'Casos']]
+    long_df = long_df.groupby(['Ano', 'Codigo', 'Descricao']).sum()
+    long_df = long_df.reset_index()
+
+    res = long_df.pivot(index='Ano', columns=['Descricao'], values='Casos')
+    res
     return  html.Div([
         dbc.Card(
             dbc.CardBody([
                 dcc.Graph(
-                    figure=px.area(dfn,facet_col="company", facet_col_wrap=2).update_layout(
+                    figure=px.area(res, facet_col="Descricao", facet_col_wrap=2).update_layout(
                         template='plotly_dark',
                         plot_bgcolor= 'rgba(0, 0, 0, 0)',
                         paper_bgcolor= 'rgba(0, 0, 0, 0)',
@@ -132,14 +137,23 @@ def drawFigure():
     ])
     
 def drawMultipleSeriesFigure():
-    dfm = px.data.stocks()
+    
+    long_df = pd.read_csv('../results/faixa_vw.csv')
+    long_df['Ano'] = pd.DatetimeIndex(long_df['Mes']).year
+    long_df = long_df[['Ano', 'Codigo', 'Descricao', 'Casos']]
+    long_df = long_df.groupby(['Ano', 'Codigo', 'Descricao']).sum()
+    long_df = long_df.reset_index()
+
+    res = long_df.pivot(index='Ano', columns=['Descricao'], values='Casos')
+    res = res.reset_index()
+    #res = res.drop(['Descricao'])
+    res
     return  html.Div([
         dbc.Card(
             dbc.CardBody([
                 dcc.Graph(
-                    figure=px.line(dfm, x="date", y=dfm.columns,
-              hover_data={"date": "|%B %d, %Y"},
-              title='custom tick labels').update_layout(
+                    figure=px.line(res, x="Ano", y=res.columns,
+              title='Evolução de casos da dengue por Faixa Etária').update_layout(
                         template='plotly_dark',
                         plot_bgcolor= 'rgba(0, 0, 0, 0)',
                         paper_bgcolor= 'rgba(0, 0, 0, 0)',
@@ -186,13 +200,16 @@ def drawTimeSeriesFigure():
 
 # Macroregion figure
 def drawRegionFigure():
-    dfr = px.data.iris()
+    long_df = pd.read_csv('../results/macrorregiao_vw.csv')
+    long_df['Ano'] = pd.DatetimeIndex(long_df['Mes']).year
+    long_df = long_df[['Ano', 'Codigo', 'Descricao', 'Casos']]
+    long_df = long_df.groupby(['Ano', 'Codigo', 'Descricao']).sum()
+    long_df = long_df.reset_index()
     return  html.Div([
         dbc.Card(
             dbc.CardBody([
                 dcc.Graph(
-                    figure=px.bar(dfr, x="sepal_width", y="sepal_length", color="species",
-            hover_data=['petal_width'], barmode = 'stack').update_layout(
+                    figure=px.bar(long_df, x="Ano", y="Casos", color="Descricao", title="Casos de dengue por macroregião").update_layout(
                         template='plotly_dark',
                         plot_bgcolor= 'rgba(0, 0, 0, 0)',
                         paper_bgcolor= 'rgba(0, 0, 0, 0)',
@@ -241,7 +258,7 @@ def drawTotalCasosText():
         dbc.Card(
             dbc.CardBody([
                 html.Div([
-                    html.H2("100447"),
+                    html.H2("1422324"),
                     html.H2("Casos Notificados"),
                 ], style={'textAlign': 'center'}) 
             ])
@@ -254,8 +271,8 @@ def drawYTDCasosText():
         dbc.Card(
             dbc.CardBody([
                 html.Div([
-                    html.H2("23.647"),
-                    html.H2("Notificações YTD"),
+                    html.H2("2019"),
+                    html.H2("Último surto"),
                 ], style={'textAlign': 'center'}) 
             ], style={'background':'#3a4f63'})
         ),
@@ -267,8 +284,8 @@ def drawTotalObitosText():
         dbc.Card(
             dbc.CardBody([
                 html.Div([
-                    html.H2("3095"),
-                    html.H2("Óbitos"),
+                    html.H2("945"),
+                    html.H2("Óbitos YTD"),
                 ], style={'textAlign': 'center'}) 
             ])
         ),
@@ -279,8 +296,8 @@ def drawTaxaText():
         dbc.Card(
             dbc.CardBody([
                 html.Div([
-                    html.H2("7,08"),
-                    html.H2("Taxa de notificação"),
+                    html.H2("3 anos"),
+                    html.H2("Sazonalidade"),
                 ], style={'textAlign': 'center'}) 
             ])
         ),
