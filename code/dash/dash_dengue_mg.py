@@ -4,12 +4,8 @@ import dash_core_components as dcc
 import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
-import plotly.express as px
-from dash import Dash, dcc, html
-import plotly.express as px
 import pandas as pd
 from dash import Dash, dcc, html, Input, Output
-import plotly.express as px
 import plotly.graph_objects as go
 
 ## -------------------------------GARFICO PREDITO X REAL -----------------------------##
@@ -17,7 +13,7 @@ import plotly.graph_objects as go
 df_ts = pd.read_csv('../results/dengue_mg_total.csv')
 #df = pd.read_csv(
 #    "https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv")
-df_ts.columns = [col.replace("AAPL.", "") for col in df.columns]
+df_ts.columns = [col.replace("AAPL.", "") for col in df_ts.columns]
 
 # Create figure
 
@@ -89,7 +85,7 @@ colors = {
     'text': '#7FDBFF'
 }
 
-###########TODO
+##------------------------Grafico Bolha------------------------##
 df1 = pd.read_csv('https://gist.githubusercontent.com/chriddyp/5d1ea79569ed194d432e56108a04d188/raw/a9f9e8076b837d541398e999dcbac2b2826a81f8/gdp-life-exp-2007.csv')
 df1.rename(columns={'continent': 'Evolucao', 'life expectancy': 'Proporçao de casos', 'gdp per capita': 'Ano  de ocorrencia'}, inplace=True)
 df1["Evolucao"] = df1["Evolucao"].astype('category')
@@ -114,16 +110,15 @@ figts.update_layout(
 
 # Iris bar figure
 def drawFigure():
-    df.rename(columns={'sepal_width': 'numero casos', 'sepal_length': 'ano base'}, inplace=True)
+    dfn = px.data.stocks(indexed=True)-1
+    
     #df1["Evolucao"] = df1["Evolucao"].astype('category')
     #df1["Evolucao"] = df1["Evolucao"].cat.rename_categories(['Ign/Branco', 'Cura', 'Obito pelo agravo notificado','Obito por outra causa', 'Obito em investigacao'])
     return  html.Div([
         dbc.Card(
             dbc.CardBody([
                 dcc.Graph(
-                    figure=px.bar(
-                        df, y="numero casos", x="ano base", color="species"
-                    ).update_layout(
+                    figure=px.area(dfn,facet_col="company", facet_col_wrap=2).update_layout(
                         template='plotly_dark',
                         plot_bgcolor= 'rgba(0, 0, 0, 0)',
                         paper_bgcolor= 'rgba(0, 0, 0, 0)',
@@ -136,23 +131,44 @@ def drawFigure():
         ),  
     ])
     
-# Bubble bar figure
-def drawBubbleFigure():
+def drawMultipleSeriesFigure():
+    dfm = px.data.stocks()
     return  html.Div([
         dbc.Card(
             dbc.CardBody([
-            html.H4('Distribuição de casos por evolução'),
-            html.P("2014-2021"),
-            html.H6('Distribuição de casos por classificação', style={'color':  'rgba(0, 0, 0, 0)', 'visibility': 'hidden'}),
-             html.P("\n \n"),
-                #Bubble graph
                 dcc.Graph(
-                    id='life-exp-vs-gdp',
-                    figure=fig1
+                    figure=px.line(dfm, x="date", y=dfm.columns,
+              hover_data={"date": "|%B %d, %Y"},
+              title='custom tick labels').update_layout(
+                        template='plotly_dark',
+                        plot_bgcolor= 'rgba(0, 0, 0, 0)',
+                        paper_bgcolor= 'rgba(0, 0, 0, 0)',
+                    ).update_xaxes(
+    dtick="M1",
+    tickformat="%b\n%Y"),
+                    config={
+                        'displayModeBar': False
+                    }
                 ) 
             ])
         ),  
     ])
+    
+# Bubble bar figure
+# def drawBubbleFigure():
+#     return  html.Div([
+#         dbc.Card(
+#             dbc.CardBody([
+#             html.H4('Distribuição de casos por evolução'),
+#             html.P("2014-2021"),
+#                 #Bubble graph
+#                 dcc.Graph(
+#                     id='life-exp-vs-gdp',
+#                     figure=fig1
+#                 ) 
+#             ])
+#         ),  
+#     ])
 
 # Time Series figure
 def drawTimeSeriesFigure():
@@ -170,20 +186,39 @@ def drawTimeSeriesFigure():
 
 # Macroregion figure
 def drawRegionFigure():
+    dfr = px.data.iris()
     return  html.Div([
         dbc.Card(
             dbc.CardBody([
-            html.H4('Distribuição de casos por macroregião'),
-            html.P("Selecione variante:"),
-            dcc.RadioItems(
-                id='candidate', 
-                options=["Grave", "Moderada", "Leve"],
-                value="Coderre",
-                inline=True
-            ),
-            dcc.Graph(id="graph")
-        ]))
+                dcc.Graph(
+                    figure=px.bar(dfr, x="sepal_width", y="sepal_length", color="species",
+            hover_data=['petal_width'], barmode = 'stack').update_layout(
+                        template='plotly_dark',
+                        plot_bgcolor= 'rgba(0, 0, 0, 0)',
+                        paper_bgcolor= 'rgba(0, 0, 0, 0)',
+                    ),
+                    config={
+                        'displayModeBar': False
+                    }
+                ) 
+            ])
+        ),  
     ])
+    
+# Macroregion figure
+def drawBubbleFigure():
+    dfr = px.data.iris()
+    return  html.Div([
+        dbc.Card(
+            dbc.CardBody([
+                dcc.Graph(
+                    id='life-exp-vs-gdp',
+                    figure=fig1
+                )  
+            ])
+        ),  
+    ])
+    
 
 
 
@@ -308,6 +343,13 @@ app.layout = html.Div([
                 ], width=3),
             ], align='center'), 
             html.Br(),
+                dbc.Row([
+                dbc.Col([
+                   #Bubble graph
+                   drawTimeSeriesFigure()
+                ], width=12),
+            ], align='center'), 
+            html.Br(),
             dbc.Row([
                 # dbc.Col([
                 #     drawFigure() 
@@ -325,11 +367,11 @@ app.layout = html.Div([
             html.Br(),
             dbc.Row([
                 dbc.Col([
-                    drawTimeSeriesFigure()
-                ], width=9),
-                dbc.Col([
                     drawFigure()
-                ], width=3),
+                ], width=8),
+                 dbc.Col([
+                    drawMultipleSeriesFigure()
+                ], width=4),
             ], align='center'),      
         ]), color = 'dark'
     )
