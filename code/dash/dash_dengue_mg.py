@@ -10,9 +10,64 @@ import plotly.express as px
 import pandas as pd
 from dash import Dash, dcc, html, Input, Output
 import plotly.express as px
+import plotly.graph_objects as go
 
-df_ts = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv')
+## -------------------------------GARFICO PREDITO X REAL -----------------------------##
+# Load data
+df_ts = pd.read_csv('../results/dengue_mg_total.csv')
+#df = pd.read_csv(
+#    "https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv")
+df_ts.columns = [col.replace("AAPL.", "") for col in df.columns]
 
+# Create figure
+
+figts = go.Figure()
+
+figts.add_trace(
+    go.Scatter(x=list(df_ts.Date), y=list(df_ts.High),  name="Real" ))
+figts.add_trace(
+    go.Scatter(x=list(df_ts.Date), y=list(df_ts.Low), name="Predito"))
+
+# Set title
+figts.update_layout(
+    title_text="Predição de Notificações de Casos de Dengue",
+    xaxis_title="Número de casos",
+    yaxis_title="Ano de registro",
+)
+
+# Add range slider
+figts.update_layout(
+    xaxis=dict(
+        rangeselector=dict(
+            buttons=list([
+                dict(count=1,
+                     label="1m",
+                     step="month",
+                     stepmode="backward"),
+                dict(count=6,
+                     label="6m",
+                     step="month",
+                     stepmode="backward"),
+                dict(count=1,
+                     label="YTD",
+                     step="year",
+                     stepmode="todate"),
+                dict(count=1,
+                     label="1y",
+                     step="year",
+                     stepmode="backward"),
+                dict(step="all")
+            ])
+        ),
+        rangeslider=dict(
+            visible=True
+        ),
+        type="date"
+    )
+)
+
+#figts.show()
+'''
 figts = px.line(df_ts, x='Date', y='AAPL.High', title='Predição de Notificações de Casos de Dengue')
 
 figts.update_xaxes(
@@ -28,7 +83,7 @@ figts.update_xaxes(
     )
 )
 #figts.show()
-
+'''
 colors = {
     'background': 'rgba(0, 0, 0, 0)',
     'text': '#7FDBFF'
